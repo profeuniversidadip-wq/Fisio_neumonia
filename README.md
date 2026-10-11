@@ -14,3 +14,13 @@ Aplicación adaptativa centrada en fisiopatología de la neumonía para estudian
 - Evita repetir preguntas y evita temas consecutivos de la misma familia cuando hay alternativas.
 
 Creado por Cristian Barahona Videla · Uso educativo · © 2026
+
+## Revisión v4 del nivel 4
+El nivel 4 fue reconstruido por completo para Kinesiología de tercer año.
+- Casos clínicos con información suficiente pero sin pistas obvias.
+- Distractores del mismo dominio y clínicamente plausibles.
+- Reconocimiento de bacterias por contexto y factores de riesgo, no por una palabra clave aislada.
+- Diferenciación NAC/HAP/NAV y aspiración mediante cronología y contexto.
+- Características de neumonía en adultos y adultos mayores.
+- Etiología bacteriana, viral y mixta.
+- Feedback específico por distractor sin entregar la respuesta correcta en el primer intento.
