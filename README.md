@@ -1,17 +1,16 @@
-# FisioNeumonia IA
+# FisioNeumonia IA — Kinesiología 3.º año
 
-Aplicación adaptativa para estudiantes de Kinesiología centrada en fisiopatología de la neumonía.
+Aplicación adaptativa centrada en fisiopatología de la neumonía para estudiantes de tercer año de Kinesiología.
 
 - 80 preguntas, 20 por nivel.
-- 10 preguntas por sesión.
-- 2 intentos por pregunta.
-- Primer error: explica por qué la alternativa elegida es incorrecta sin revelar la respuesta.
-- Segundo intento: alternativas en orden distinto al anterior.
-- Acierto: Correcto + Respuesta correcta + Idea clave.
-- Segundo error: explicación + Respuesta correcta + Idea clave.
-- Evita repetir preguntas hasta agotar el banco disponible.
-- Evita preguntas consecutivas del mismo tema o familia temática cuando hay alternativas.
-
-Contenidos: definición, NAC/HAP/NAV, etiología, microaspiración, defensas, inflamación, exudado y consolidación, surfactante, distensibilidad, V/Q, shunt, hipoxemia, clínica, diagnóstico, gravedad, microbiología, aspiración, complicaciones, sepsis, SDRA y principios de intervención.
+- Nivel 1: fundamentos fisiopatológicos con distractores plausibles.
+- Nivel 2: interpretación clínica y fisiopatológica.
+- Nivel 3: integración de mecanismos.
+- Nivel 4: reconocimiento etiológico y clínico avanzado: bacterias causales, NAC/HAP/NAV, neumonía por aspiración, características de la neumonía en adultos, etiología bacteriana/viral/mixta y asociación agente-contexto.
+- 2 intentos.
+- Primer error: explica el error sin revelar la respuesta.
+- Acierto: respuesta correcta + idea clave.
+- Segundo error: explicación + respuesta correcta + idea clave.
+- Evita repetir preguntas y evita temas consecutivos de la misma familia cuando hay alternativas.
 
 Creado por Cristian Barahona Videla · Uso educativo · © 2026

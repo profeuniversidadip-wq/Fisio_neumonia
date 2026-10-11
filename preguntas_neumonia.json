@@ -2,1521 +2,1521 @@
   {
     "id": 301,
     "nivel": 1,
-    "tema": "Definición",
-    "pregunta": "¿Qué estructura respiratoria se compromete de forma predominante en la neumonía?",
-    "correcta_texto": "Alvéolos y parénquima pulmonar",
+    "tema": "Barreras",
+    "pregunta": "En una persona con disfagia y reflejo tusígeno disminuido, ¿qué cambio aumenta más el riesgo de neumonía?",
+    "correcta_texto": "Mayor paso de secreciones orofaríngeas a vía aérea inferior",
     "alternativas": [
-      "Laringe y tráquea proximal",
-      "Pleura como sitio primario obligatorio",
-      "Bronquios principales exclusivamente",
-      "Alvéolos y parénquima pulmonar"
+      "Mayor estabilidad del surfactante",
+      "Mayor paso de secreciones orofaríngeas a vía aérea inferior",
+      "Disminución de carga microbiana alveolar",
+      "Aumento de depuración mucociliar"
     ],
     "feedbackIncorrecto": {
-      "Bronquios principales exclusivamente": "La bronquitis compromete predominantemente bronquios; la neumonía afecta espacios alveolares y parénquima.",
-      "Laringe y tráquea proximal": "La laringe y tráquea corresponden a vía aérea superior.",
-      "Pleura como sitio primario obligatorio": "La pleura puede complicarse, pero no define el sitio primario de la infección."
+      "Aumento de depuración mucociliar": "La disfagia y una tos ineficaz reducen la depuración, no la aumentan.",
+      "Disminución de carga microbiana alveolar": "La falla de protección favorece mayor llegada microbiana, no menor.",
+      "Mayor estabilidad del surfactante": "El surfactante no evita la aspiración de secreciones."
     },
-    "ideaClave": "La neumonía es una infección del parénquima con compromiso alveolar."
+    "ideaClave": "La falla de mecanismos protectores favorece microaspiración."
   },
   {
     "id": 302,
     "nivel": 1,
-    "tema": "Clasificación",
-    "pregunta": "Una neumonía que aparece 72 horas después del ingreso, sin estar incubándose al ingresar, corresponde a:",
-    "correcta_texto": "Neumonía hospitalaria",
+    "tema": "Inflamación",
+    "pregunta": "¿Qué evento inicia más directamente la respuesta inflamatoria alveolar frente a un patógeno?",
+    "correcta_texto": "Reconocimiento por macrófagos alveolares y liberación de citocinas",
     "alternativas": [
-      "Neumonitis química",
-      "NAV por definición",
-      "Neumonía hospitalaria",
-      "Neumonía adquirida en la comunidad"
+      "Activación primaria de fibroblastos",
+      "Aumento inmediato del volumen residual",
+      "Cierre total de la circulación pulmonar",
+      "Reconocimiento por macrófagos alveolares y liberación de citocinas"
     ],
     "feedbackIncorrecto": {
-      "Neumonía adquirida en la comunidad": "La NAC se adquiere fuera del hospital o se manifiesta antes de cumplir criterios de HAP.",
-      "NAV por definición": "La NAV requiere asociación temporal con intubación y ventilación mecánica.",
-      "Neumonitis química": "La neumonitis química depende de aspiración de contenido irritante, no del tiempo de hospitalización."
+      "Activación primaria de fibroblastos": "Los fibroblastos participan sobre todo en reparación.",
+      "Aumento inmediato del volumen residual": "El volumen residual no inicia la respuesta inflamatoria.",
+      "Cierre total de la circulación pulmonar": "La circulación pulmonar no se cierra globalmente."
     },
-    "ideaClave": "La HAP aparece ≥48 h después del ingreso y no estaba incubándose al ingreso."
+    "ideaClave": "Los macrófagos alveolares actúan como células centinela."
   },
   {
     "id": 303,
     "nivel": 1,
-    "tema": "Clasificación",
-    "pregunta": "¿Qué dato define mejor una neumonía asociada a ventilación mecánica?",
-    "correcta_texto": "Inicio >48 h después de la intubación endotraqueal",
+    "tema": "Exudado",
+    "pregunta": "¿Cuál es la consecuencia funcional más directa del aumento de permeabilidad alveolocapilar?",
+    "correcta_texto": "Ocupación alveolar por líquido, proteínas y células inflamatorias",
     "alternativas": [
-      "Consolidación lobar",
-      "Inicio >48 h después de la intubación endotraqueal",
-      "Necesidad de oxígeno suplementario",
-      "Fiebre alta durante hospitalización"
+      "Espacio muerto puro",
+      "Disminución del peso del pulmón",
+      "Ocupación alveolar por líquido, proteínas y células inflamatorias",
+      "Aumento de ventilación regional"
     ],
     "feedbackIncorrecto": {
-      "Fiebre alta durante hospitalización": "La fiebre no distingue por sí sola NAV de otros tipos de neumonía.",
-      "Consolidación lobar": "La consolidación puede aparecer en múltiples tipos de neumonía.",
-      "Necesidad de oxígeno suplementario": "El uso de oxígeno no define el contexto de adquisición."
+      "Aumento de ventilación regional": "El llenado alveolar reduce la ventilación.",
+      "Disminución del peso del pulmón": "El contenido líquido aumenta, no disminuye, el peso regional.",
+      "Espacio muerto puro": "Con perfusión mantenida predomina baja V/Q o shunt."
     },
-    "ideaClave": "La NAV se define por su relación temporal con la intubación."
+    "ideaClave": "El exudado reemplaza aire alveolar."
   },
   {
     "id": 304,
     "nivel": 1,
-    "tema": "Etiología",
-    "pregunta": "¿Cuál es un agente bacteriano frecuente de neumonía adquirida en la comunidad?",
-    "correcta_texto": "Streptococcus pneumoniae",
-    "alternativas": [
-      "SARS-CoV-2",
-      "Virus respiratorio sincicial",
-      "Streptococcus pneumoniae",
-      "Influenza"
-    ],
-    "feedbackIncorrecto": {
-      "Influenza": "Influenza es un virus respiratorio.",
-      "Virus respiratorio sincicial": "El VRS es un agente viral.",
-      "SARS-CoV-2": "SARS-CoV-2 es un virus."
-    },
-    "ideaClave": "S. pneumoniae es un agente bacteriano clásico de NAC."
-  },
-  {
-    "id": 305,
-    "nivel": 1,
-    "tema": "Etiología",
-    "pregunta": "¿Qué bacteria debe considerarse ante deterioro respiratorio posterior a influenza?",
-    "correcta_texto": "Staphylococcus aureus",
-    "alternativas": [
-      "Influenza como bacteria",
-      "Adenovirus",
-      "Staphylococcus aureus",
-      "Virus respiratorio sincicial"
-    ],
-    "feedbackIncorrecto": {
-      "Adenovirus": "Adenovirus es viral.",
-      "Virus respiratorio sincicial": "El VRS es viral.",
-      "Influenza como bacteria": "Influenza no es una bacteria y no representa sobreinfección bacteriana."
-    },
-    "ideaClave": "S. aureus puede asociarse a neumonía posterior a influenza."
-  },
-  {
-    "id": 306,
-    "nivel": 1,
-    "tema": "Adquisición",
-    "pregunta": "¿Cuál es una vía frecuente de llegada de microorganismos a la vía aérea inferior?",
-    "correcta_texto": "Microaspiración de secreciones orofaríngeas",
-    "alternativas": [
-      "Migración desde la piel por continuidad",
-      "Microaspiración de secreciones orofaríngeas",
-      "Difusión directa desde el estómago a través del diafragma",
-      "Entrada exclusiva desde el espacio pleural"
-    ],
-    "feedbackIncorrecto": {
-      "Difusión directa desde el estómago a través del diafragma": "No existe una vía anatómica habitual directa desde el estómago a través del diafragma.",
-      "Migración desde la piel por continuidad": "La piel no se continúa con los alvéolos como vía típica de infección.",
-      "Entrada exclusiva desde el espacio pleural": "El espacio pleural no es la vía habitual de entrada a los alvéolos."
-    },
-    "ideaClave": "La microaspiración es una vía frecuente de adquisición."
-  },
-  {
-    "id": 307,
-    "nivel": 1,
-    "tema": "Defensas",
-    "pregunta": "¿Qué mecanismo ayuda a evitar que microorganismos alcancen los alvéolos?",
-    "correcta_texto": "Transporte mucociliar",
-    "alternativas": [
-      "Shunt intrapulmonar",
-      "Transporte mucociliar",
-      "Consolidación alveolar",
-      "Hepatización gris"
-    ],
-    "feedbackIncorrecto": {
-      "Consolidación alveolar": "La consolidación es una consecuencia de la inflamación.",
-      "Shunt intrapulmonar": "El shunt es una alteración del intercambio gaseoso.",
-      "Hepatización gris": "La hepatización gris es un patrón histopatológico, no un mecanismo defensivo."
-    },
-    "ideaClave": "El transporte mucociliar forma parte de las defensas respiratorias."
-  },
-  {
-    "id": 308,
-    "nivel": 1,
-    "tema": "Inflamación",
-    "pregunta": "¿Qué célula actúa como centinela temprana en el alvéolo?",
-    "correcta_texto": "Macrófago alveolar",
-    "alternativas": [
-      "Neumocito tipo I exclusivamente",
-      "Eritrocito",
-      "Fibroblasto como principal célula inicial",
-      "Macrófago alveolar"
-    ],
-    "feedbackIncorrecto": {
-      "Eritrocito": "El eritrocito transporta gases, no es la principal célula centinela.",
-      "Fibroblasto como principal célula inicial": "El fibroblasto participa más en reparación que en reconocimiento inicial.",
-      "Neumocito tipo I exclusivamente": "El reconocimiento inicial se atribuye principalmente a macrófagos alveolares."
-    },
-    "ideaClave": "Los macrófagos alveolares activan la respuesta inflamatoria."
-  },
-  {
-    "id": 309,
-    "nivel": 1,
-    "tema": "Inflamación",
-    "pregunta": "¿Qué efecto tiene el aumento de permeabilidad alveolocapilar?",
-    "correcta_texto": "Salida de líquido y proteínas hacia intersticio y alvéolos",
-    "alternativas": [
-      "Eliminación del reclutamiento de neutrófilos",
-      "Disminución del edema",
-      "Salida de líquido y proteínas hacia intersticio y alvéolos",
-      "Aumento de la ventilación regional"
-    ],
-    "feedbackIncorrecto": {
-      "Disminución del edema": "El aumento de permeabilidad favorece edema y exudado.",
-      "Aumento de la ventilación regional": "El llenado alveolar reduce la ventilación regional.",
-      "Eliminación del reclutamiento de neutrófilos": "La respuesta inflamatoria favorece reclutamiento leucocitario."
-    },
-    "ideaClave": "La permeabilidad aumentada contribuye al exudado alveolar."
-  },
-  {
-    "id": 310,
-    "nivel": 1,
-    "tema": "Consolidación",
-    "pregunta": "¿Qué describe mejor una consolidación neumónica?",
-    "correcta_texto": "Ocupación alveolar por exudado inflamatorio",
-    "alternativas": [
-      "Colapso sin infección de manera obligatoria",
-      "Ocupación alveolar por exudado inflamatorio",
-      "Aumento del aire alveolar",
-      "Aire en espacio pleural"
-    ],
-    "feedbackIncorrecto": {
-      "Aumento del aire alveolar": "La consolidación reemplaza aire por material inflamatorio.",
-      "Colapso sin infección de manera obligatoria": "La atelectasia puede coexistir, pero no es sinónimo de consolidación infecciosa.",
-      "Aire en espacio pleural": "El aire pleural corresponde a neumotórax."
-    },
-    "ideaClave": "La consolidación reduce el contenido aéreo regional."
-  },
-  {
-    "id": 311,
-    "nivel": 1,
     "tema": "V/Q",
-    "pregunta": "Si una región pulmonar mantiene perfusión pero ventila poco por exudado, ¿qué alteración aparece?",
-    "correcta_texto": "Relación V/Q baja",
+    "pregunta": "En una región neumónica perfundida donde la ventilación cae por exudado, ¿qué patrón aparece?",
+    "correcta_texto": "Disminución de la relación V/Q",
     "alternativas": [
-      "Espacio muerto por ausencia de perfusión",
-      "V/Q alta",
-      "Relación V/Q baja",
-      "Perfusión y ventilación ambas aumentadas"
+      "Aumento paralelo de ventilación y perfusión",
+      "Disminución de la relación V/Q",
+      "Aumento de V/Q",
+      "Espacio muerto por perfusión ausente"
     ],
     "feedbackIncorrecto": {
-      "Espacio muerto por ausencia de perfusión": "El espacio muerto implica ventilación con perfusión reducida.",
-      "V/Q alta": "La ventilación disminuye en la región consolidada.",
-      "Perfusión y ventilación ambas aumentadas": "La perfusión puede mantenerse mientras la ventilación cae."
+      "Aumento de V/Q": "La ventilación disminuye respecto de la perfusión.",
+      "Espacio muerto por perfusión ausente": "El espacio muerto exige ventilación con perfusión reducida.",
+      "Aumento paralelo de ventilación y perfusión": "La consolidación no aumenta ambas variables."
     },
     "ideaClave": "La neumonía genera unidades de baja V/Q."
   },
   {
-    "id": 312,
+    "id": 305,
     "nivel": 1,
     "tema": "Shunt",
-    "pregunta": "¿Qué caracteriza a un shunt intrapulmonar?",
-    "correcta_texto": "Perfusión de una unidad con ventilación ausente o muy reducida",
+    "pregunta": "¿Qué condición transforma una zona de baja V/Q en un shunt funcionalmente importante?",
+    "correcta_texto": "Pérdida casi completa de ventilación con perfusión mantenida",
     "alternativas": [
-      "Ausencia total de perfusión regional",
-      "Ventilación sin perfusión",
-      "Ventilación y perfusión proporcionalmente aumentadas",
-      "Perfusión de una unidad con ventilación ausente o muy reducida"
+      "Pérdida de perfusión con ventilación conservada",
+      "Aumento proporcional de ventilación y perfusión",
+      "Pérdida casi completa de ventilación con perfusión mantenida",
+      "Hiperventilación de zonas sanas"
     ],
     "feedbackIncorrecto": {
-      "Ventilación sin perfusión": "Ventilación sin perfusión corresponde a espacio muerto.",
-      "Ventilación y perfusión proporcionalmente aumentadas": "Si ambas aumentan proporcionalmente no hay shunt.",
-      "Ausencia total de perfusión regional": "Sin perfusión no existe paso de sangre que genere shunt."
+      "Pérdida de perfusión con ventilación conservada": "Ventilación sin perfusión corresponde a espacio muerto.",
+      "Aumento proporcional de ventilación y perfusión": "Si ambas variables aumentan proporcionalmente no hay shunt.",
+      "Hiperventilación de zonas sanas": "La hiperventilación de zonas sanas no crea el shunt."
     },
-    "ideaClave": "El shunt contribuye a hipoxemia en zonas no ventiladas pero perfundidas."
+    "ideaClave": "El shunt implica perfusión sin ventilación efectiva."
+  },
+  {
+    "id": 306,
+    "nivel": 1,
+    "tema": "Compliance",
+    "pregunta": "¿Por qué la consolidación aumenta el trabajo respiratorio?",
+    "correcta_texto": "Reduce la distensibilidad del pulmón afectado",
+    "alternativas": [
+      "Aumenta la distensibilidad",
+      "Disminuye mucho la tensión superficial",
+      "Elimina el dolor pleurítico",
+      "Reduce la distensibilidad del pulmón afectado"
+    ],
+    "feedbackIncorrecto": {
+      "Aumenta la distensibilidad": "La consolidación vuelve el pulmón más rígido.",
+      "Disminuye mucho la tensión superficial": "La alteración del surfactante suele aumentar la tensión superficial.",
+      "Elimina el dolor pleurítico": "El dolor puede aumentar el trabajo respiratorio."
+    },
+    "ideaClave": "Menor compliance exige mayor presión para expandir el pulmón."
+  },
+  {
+    "id": 307,
+    "nivel": 1,
+    "tema": "Surfactante",
+    "pregunta": "¿Qué consecuencia puede producir la alteración del surfactante en neumonía?",
+    "correcta_texto": "Mayor tensión superficial y tendencia al colapso alveolar",
+    "alternativas": [
+      "Aumento directo de perfusión",
+      "Mayor estabilidad alveolar",
+      "Mayor tensión superficial y tendencia al colapso alveolar",
+      "Disminución automática del exudado"
+    ],
+    "feedbackIncorrecto": {
+      "Mayor estabilidad alveolar": "La pérdida de surfactante reduce estabilidad.",
+      "Aumento directo de perfusión": "El surfactante no regula directamente la perfusión.",
+      "Disminución automática del exudado": "No elimina el exudado inflamatorio."
+    },
+    "ideaClave": "La disfunción del surfactante favorece atelectasia."
+  },
+  {
+    "id": 308,
+    "nivel": 1,
+    "tema": "Hipoxemia",
+    "pregunta": "¿Qué relación causal explica mejor la hipoxemia en neumonía alveolar?",
+    "correcta_texto": "Exudado → menor ventilación → baja V/Q/shunt → caída de PaO₂",
+    "alternativas": [
+      "Exudado → mayor ventilación → aumento de PaO₂",
+      "Exudado → menor ventilación → baja V/Q/shunt → caída de PaO₂",
+      "Consolidación → mayor difusión de O₂",
+      "Inflamación → perfusión cero → shunt"
+    ],
+    "feedbackIncorrecto": {
+      "Exudado → mayor ventilación → aumento de PaO₂": "El exudado reduce ventilación.",
+      "Inflamación → perfusión cero → shunt": "Perfusión cero produce espacio muerto, no shunt.",
+      "Consolidación → mayor difusión de O₂": "La consolidación dificulta el intercambio."
+    },
+    "ideaClave": "La ocupación alveolar altera V/Q."
+  },
+  {
+    "id": 309,
+    "nivel": 1,
+    "tema": "Taquipnea",
+    "pregunta": "¿Qué mecanismo explica mejor la taquipnea en neumonía?",
+    "correcta_texto": "Hipoxemia, fiebre y menor distensibilidad aumentan demanda ventilatoria",
+    "alternativas": [
+      "Hipoxemia, fiebre y menor distensibilidad aumentan demanda ventilatoria",
+      "Disminución del estímulo ventilatorio",
+      "Aumento funcional de surfactante",
+      "Mayor compliance y menor trabajo"
+    ],
+    "feedbackIncorrecto": {
+      "Mayor compliance y menor trabajo": "La compliance suele disminuir.",
+      "Disminución del estímulo ventilatorio": "La hipoxemia aumenta el estímulo ventilatorio.",
+      "Aumento funcional de surfactante": "El surfactante puede alterarse."
+    },
+    "ideaClave": "La taquipnea refleja mayor demanda y carga mecánica."
+  },
+  {
+    "id": 310,
+    "nivel": 1,
+    "tema": "PaCO2",
+    "pregunta": "En una fase inicial con taquipnea efectiva, ¿qué cambio de PaCO₂ puede observarse?",
+    "correcta_texto": "Disminución por hiperventilación",
+    "alternativas": [
+      "Disminución por hiperventilación",
+      "Valor siempre fijo",
+      "Aumento por espacio muerto puro en todo el pulmón",
+      "Aumento obligatorio desde el inicio"
+    ],
+    "feedbackIncorrecto": {
+      "Aumento obligatorio desde el inicio": "La hiperventilación puede reducir CO₂.",
+      "Valor siempre fijo": "PaCO₂ depende de ventilación alveolar.",
+      "Aumento por espacio muerto puro en todo el pulmón": "La neumonía no convierte todo el pulmón en espacio muerto."
+    },
+    "ideaClave": "La hipocapnia inicial puede reflejar hiperventilación."
+  },
+  {
+    "id": 311,
+    "nivel": 1,
+    "tema": "Fatiga",
+    "pregunta": "¿Qué cambio gasométrico sugiere deterioro ventilatorio en neumonía grave con fatiga?",
+    "correcta_texto": "Aumento progresivo de PaCO₂",
+    "alternativas": [
+      "Aumento espontáneo de saturación",
+      "PaO₂ normal con mayor esfuerzo",
+      "Aumento progresivo de PaCO₂",
+      "Descenso sostenido de PaCO₂ con fatiga"
+    ],
+    "feedbackIncorrecto": {
+      "Descenso sostenido de PaCO₂ con fatiga": "La fatiga tiende a reducir ventilación efectiva.",
+      "PaO₂ normal con mayor esfuerzo": "PaO₂ normal no define fracaso ventilatorio.",
+      "Aumento espontáneo de saturación": "La saturación no aumenta espontáneamente al deteriorarse."
+    },
+    "ideaClave": "La hipercapnia progresiva puede indicar fracaso ventilatorio."
+  },
+  {
+    "id": 312,
+    "nivel": 1,
+    "tema": "Clasificación",
+    "pregunta": "¿Por qué diferenciar NAC de HAP es clínicamente relevante?",
+    "correcta_texto": "El contexto modifica patógenos probables y riesgo de resistencia",
+    "alternativas": [
+      "Cambia la anatomía alveolar",
+      "La NAC nunca genera sepsis",
+      "Toda HAP produce shunt y toda NAC no",
+      "El contexto modifica patógenos probables y riesgo de resistencia"
+    ],
+    "feedbackIncorrecto": {
+      "Cambia la anatomía alveolar": "La anatomía alveolar puede ser similar.",
+      "Toda HAP produce shunt y toda NAC no": "Ambas pueden producir shunt.",
+      "La NAC nunca genera sepsis": "La NAC también puede complicarse con sepsis."
+    },
+    "ideaClave": "El contexto de adquisición modifica riesgo microbiológico."
   },
   {
     "id": 313,
     "nivel": 1,
-    "tema": "Hipoxemia",
-    "pregunta": "¿Qué mecanismo explica gran parte de la hipoxemia en neumonía extensa?",
-    "correcta_texto": "Baja V/Q y shunt",
+    "tema": "NAV",
+    "pregunta": "¿Qué elemento distingue mejor a NAV de otras neumonías hospitalarias?",
+    "correcta_texto": "Aparición tras más de 48 h de intubación endotraqueal",
     "alternativas": [
-      "Aumento aislado de hemoglobina",
-      "Hiperventilación de zonas sanas como única causa",
-      "Mayor difusión de O₂ a través del exudado",
-      "Baja V/Q y shunt"
+      "Aparición tras más de 48 h de intubación endotraqueal",
+      "Consolidación radiológica",
+      "Hipoxemia",
+      "Fiebre alta"
     ],
     "feedbackIncorrecto": {
-      "Aumento aislado de hemoglobina": "La hemoglobina no explica por sí sola la caída de PaO₂.",
-      "Hiperventilación de zonas sanas como única causa": "Las zonas sanas pueden compensar parcialmente, no causar la hipoxemia.",
-      "Mayor difusión de O₂ a través del exudado": "El exudado dificulta, no mejora, el intercambio gaseoso."
+      "Fiebre alta": "La fiebre no es exclusiva de NAV.",
+      "Hipoxemia": "La hipoxemia puede aparecer en cualquier neumonía grave.",
+      "Consolidación radiológica": "La consolidación tampoco define el contexto de adquisición."
     },
-    "ideaClave": "La ocupación alveolar altera V/Q y puede generar shunt."
+    "ideaClave": "La NAV se define por relación temporal con ventilación invasiva."
   },
   {
     "id": 314,
     "nivel": 1,
-    "tema": "Mecánica",
-    "pregunta": "¿Qué efecto suele producir la consolidación sobre la distensibilidad pulmonar?",
-    "correcta_texto": "La disminuye",
+    "tema": "Aspiración",
+    "pregunta": "¿Qué diferencia básica existe entre neumonía por aspiración y neumonitis química?",
+    "correcta_texto": "La primera implica infección; la segunda puede ser lesión inflamatoria estéril",
     "alternativas": [
-      "Elimina el trabajo respiratorio",
-      "La aumenta de forma obligatoria",
-      "No modifica la expansión regional",
-      "La disminuye"
+      "Ambas son siempre bacterianas",
+      "La neumonitis química siempre es tardía",
+      "La primera implica infección; la segunda puede ser lesión inflamatoria estéril",
+      "La neumonía por aspiración no se relaciona con disfagia"
     ],
     "feedbackIncorrecto": {
-      "La aumenta de forma obligatoria": "El pulmón consolidado se expande con mayor dificultad.",
-      "Elimina el trabajo respiratorio": "Menor distensibilidad aumenta el trabajo respiratorio.",
-      "No modifica la expansión regional": "La ocupación alveolar sí modifica la mecánica regional."
+      "Ambas son siempre bacterianas": "La neumonitis química puede ser estéril.",
+      "La neumonitis química siempre es tardía": "La lesión química puede ser inmediata.",
+      "La neumonía por aspiración no se relaciona con disfagia": "La disfagia aumenta riesgo de aspiración infecciosa."
     },
-    "ideaClave": "La consolidación disminuye distensibilidad y aumenta trabajo respiratorio."
+    "ideaClave": "No toda aspiración produce el mismo mecanismo."
   },
   {
     "id": 315,
     "nivel": 1,
-    "tema": "Surfactante",
-    "pregunta": "¿Qué puede ocurrir si el surfactante se altera durante una neumonía?",
-    "correcta_texto": "Aumenta tensión superficial y favorece inestabilidad alveolar",
+    "tema": "Complicaciones",
+    "pregunta": "¿Qué diferencia anatómica existe entre empiema y absceso pulmonar?",
+    "correcta_texto": "Empiema pleural; absceso intraparenquimatoso",
     "alternativas": [
-      "Disminuye tensión superficial y aumenta estabilidad",
-      "Desaparece el riesgo de atelectasia",
-      "Aumenta directamente la perfusión",
-      "Aumenta tensión superficial y favorece inestabilidad alveolar"
+      "Ambos son atelectasias infectadas",
+      "Empiema pleural; absceso intraparenquimatoso",
+      "Empiema alveolar; absceso pleural",
+      "Ambos bronquiales"
     ],
     "feedbackIncorrecto": {
-      "Disminuye tensión superficial y aumenta estabilidad": "La disfunción del surfactante tiende a aumentar tensión superficial.",
-      "Desaparece el riesgo de atelectasia": "Puede favorecer, no eliminar, atelectasia.",
-      "Aumenta directamente la perfusión": "El surfactante actúa principalmente sobre estabilidad alveolar."
+      "Ambos bronquiales": "No se definen por localización bronquial.",
+      "Empiema alveolar; absceso pleural": "La localización está invertida.",
+      "Ambos son atelectasias infectadas": "Son colecciones infecciosas diferentes."
     },
-    "ideaClave": "La alteración del surfactante puede favorecer colapso alveolar."
+    "ideaClave": "La localización anatómica diferencia ambas complicaciones."
   },
   {
     "id": 316,
     "nivel": 1,
-    "tema": "Clínica",
-    "pregunta": "¿Qué hallazgo clínico es compatible con consolidación pulmonar?",
-    "correcta_texto": "Crepitaciones y aumento de transmisión de la voz",
+    "tema": "Sepsis",
+    "pregunta": "¿Qué transformación indica progresión de neumonía a sepsis?",
+    "correcta_texto": "Respuesta sistémica desregulada con disfunción orgánica",
     "alternativas": [
-      "Estridor inspiratorio aislado",
-      "Rinorrea sin síntomas pulmonares",
-      "Dolor abdominal aislado",
-      "Crepitaciones y aumento de transmisión de la voz"
+      "Fiebre sin disfunción orgánica",
+      "Inflamación exclusivamente local",
+      "Consolidación aislada",
+      "Respuesta sistémica desregulada con disfunción orgánica"
     ],
     "feedbackIncorrecto": {
-      "Estridor inspiratorio aislado": "El estridor orienta a vía aérea superior.",
-      "Rinorrea sin síntomas pulmonares": "La rinorrea aislada no indica consolidación.",
-      "Dolor abdominal aislado": "El dolor abdominal aislado no caracteriza consolidación pulmonar."
+      "Inflamación exclusivamente local": "La sepsis implica repercusión sistémica.",
+      "Fiebre sin disfunción orgánica": "La fiebre sola no define sepsis.",
+      "Consolidación aislada": "La imagen pulmonar aislada no define disfunción orgánica."
     },
-    "ideaClave": "La consolidación modifica auscultación y transmisión de sonidos."
+    "ideaClave": "Sepsis = infección asociada a disfunción orgánica."
   },
   {
     "id": 317,
     "nivel": 1,
-    "tema": "Clínica",
-    "pregunta": "¿Cuál es un signo de alarma en neumonía?",
-    "correcta_texto": "Alteración del estado de conciencia",
+    "tema": "SDRA",
+    "pregunta": "¿Qué mecanismo relaciona neumonía grave con SDRA?",
+    "correcta_texto": "Daño alveolar difuso con aumento de permeabilidad",
     "alternativas": [
-      "Tos aislada",
-      "Odinofagia aislada",
-      "Alteración del estado de conciencia",
-      "Rinorrea leve"
+      "Daño alveolar difuso con aumento de permeabilidad",
+      "Broncodilatación aislada",
+      "Disminución de permeabilidad",
+      "Aumento funcional de surfactante"
     ],
     "feedbackIncorrecto": {
-      "Tos aislada": "La tos aislada no implica gravedad.",
-      "Rinorrea leve": "La rinorrea leve no indica compromiso sistémico grave.",
-      "Odinofagia aislada": "La odinofagia aislada no es un signo de alarma de neumonía."
+      "Disminución de permeabilidad": "El SDRA aumenta la fuga capilar.",
+      "Broncodilatación aislada": "La broncodilatación no explica daño alveolar difuso.",
+      "Aumento funcional de surfactante": "El surfactante suele alterarse."
     },
-    "ideaClave": "Alteración de conciencia puede indicar hipoxemia o compromiso sistémico."
+    "ideaClave": "La neumonía grave puede desencadenar lesión alveolar difusa."
   },
   {
     "id": 318,
     "nivel": 1,
-    "tema": "Diagnóstico",
-    "pregunta": "¿Qué aporta principalmente la radiografía de tórax ante sospecha de neumonía?",
-    "correcta_texto": "Apoya el diagnóstico y permite buscar opacidades y complicaciones",
+    "tema": "Imagen",
+    "pregunta": "¿Por qué una consolidación radiológica no identifica por sí sola el agente causal?",
+    "correcta_texto": "Distintos microorganismos pueden producir patrones superpuestos",
     "alternativas": [
-      "Apoya el diagnóstico y permite buscar opacidades y complicaciones",
-      "Determina siempre ingreso a UCI",
-      "Reemplaza la evaluación clínica",
-      "Identifica con certeza el microorganismo"
+      "La radiografía solo muestra pleura",
+      "Los virus siempre tienen radiografía normal",
+      "Las bacterias no consolidan",
+      "Distintos microorganismos pueden producir patrones superpuestos"
     ],
     "feedbackIncorrecto": {
-      "Identifica con certeza el microorganismo": "La imagen no identifica con certeza el agente.",
-      "Reemplaza la evaluación clínica": "El diagnóstico requiere integrar clínica e imagen.",
-      "Determina siempre ingreso a UCI": "La gravedad no se decide solo por radiografía."
+      "Las bacterias no consolidan": "Las bacterias sí pueden consolidar.",
+      "Los virus siempre tienen radiografía normal": "Los virus pueden producir alteraciones radiográficas.",
+      "La radiografía solo muestra pleura": "La radiografía evalúa parénquima y tórax."
     },
-    "ideaClave": "La imagen debe correlacionarse con el contexto clínico."
+    "ideaClave": "La imagen orienta extensión, no etiología definitiva."
   },
   {
     "id": 319,
     "nivel": 1,
-    "tema": "Aspiración",
-    "pregunta": "¿Qué diferencia mejor neumonía por aspiración de neumonitis química?",
-    "correcta_texto": "La neumonía por aspiración implica infección; la neumonitis química es lesión inflamatoria por material aspirado",
+    "tema": "Microbiología",
+    "pregunta": "¿Cuál es el objetivo de obtener muestras en neumonía grave o nosocomial?",
+    "correcta_texto": "Identificar patógenos y ajustar cobertura antimicrobiana",
     "alternativas": [
-      "Son el mismo proceso",
-      "La neumonitis química siempre requiere antibióticos",
-      "La neumonía por aspiración nunca se asocia a disfagia",
-      "La neumonía por aspiración implica infección; la neumonitis química es lesión inflamatoria por material aspirado"
+      "Identificar patógenos y ajustar cobertura antimicrobiana",
+      "Reemplazar la evaluación clínica",
+      "Esperar siempre resultados antes de tratar",
+      "Demostrar que toda neumonía es bacteriana"
     ],
     "feedbackIncorrecto": {
-      "Son el mismo proceso": "No son equivalentes.",
-      "La neumonitis química siempre requiere antibióticos": "La neumonitis química puede ser estéril y no implica antibióticos automáticos.",
-      "La neumonía por aspiración nunca se asocia a disfagia": "La disfagia aumenta el riesgo de aspiración infecciosa."
+      "Reemplazar la evaluación clínica": "La microbiología complementa la clínica.",
+      "Demostrar que toda neumonía es bacteriana": "No toda neumonía es bacteriana.",
+      "Esperar siempre resultados antes de tratar": "En inestabilidad no se debe retrasar tratamiento."
     },
-    "ideaClave": "Aspiración infecciosa y neumonitis química requieren razonamiento distinto."
+    "ideaClave": "Las muestras ayudan a dirigir tratamiento."
   },
   {
     "id": 320,
     "nivel": 1,
-    "tema": "Complicaciones",
-    "pregunta": "¿Cuál es una complicación pleural de la neumonía?",
-    "correcta_texto": "Empiema",
+    "tema": "Resolución",
+    "pregunta": "¿Qué proceso participa en la resolución al controlar la infección?",
+    "correcta_texto": "Macrófagos eliminan detritos y el exudado se reabsorbe",
     "alternativas": [
-      "Sinusitis",
-      "Bronquiolitis",
-      "Laringitis",
-      "Empiema"
+      "Aumento progresivo de fibrina",
+      "Fibrosis obligatoria",
+      "Persistencia indefinida de neutrófilos",
+      "Macrófagos eliminan detritos y el exudado se reabsorbe"
     ],
     "feedbackIncorrecto": {
-      "Bronquiolitis": "La bronquiolitis compromete pequeñas vías aéreas.",
-      "Laringitis": "La laringitis afecta vía aérea superior.",
-      "Sinusitis": "La sinusitis no es una complicación pleural."
+      "Persistencia indefinida de neutrófilos": "La inflamación debe disminuir.",
+      "Aumento progresivo de fibrina": "La fibrina debe eliminarse o reorganizarse.",
+      "Fibrosis obligatoria": "La fibrosis no es obligatoria."
     },
-    "ideaClave": "El empiema es pus en el espacio pleural."
+    "ideaClave": "La resolución requiere retirar exudado y restaurar arquitectura."
   },
   {
     "id": 321,
     "nivel": 2,
-    "tema": "V/Q",
-    "pregunta": "Un paciente tiene alvéolos llenos de exudado pero perfusión regional conservada. ¿Qué mecanismo explica mejor la hipoxemia?",
-    "correcta_texto": "Disminución de V/Q",
+    "tema": "Baja V/Q",
+    "pregunta": "Paciente con neumonía lobar tiene consolidación basal, SpO₂ 89% y perfusión conservada. ¿Qué alteración es más probable en esa región?",
+    "correcta_texto": "Ventilación reducida con perfusión relativamente mantenida",
     "alternativas": [
-      "Espacio muerto puro",
-      "Disminución de V/Q",
-      "Aumento de difusión de O₂",
-      "Reducción de perfusión con ventilación conservada"
+      "Ventilación y perfusión aumentadas proporcionalmente",
+      "Perfusión cero con ventilación aumentada",
+      "Ventilación normal con ausencia de perfusión",
+      "Ventilación reducida con perfusión relativamente mantenida"
     ],
     "feedbackIncorrecto": {
-      "Espacio muerto puro": "El espacio muerto requiere ventilación sin perfusión adecuada.",
-      "Aumento de difusión de O₂": "El exudado no mejora la difusión.",
-      "Reducción de perfusión con ventilación conservada": "Aquí la perfusión se conserva y la ventilación cae."
+      "Ventilación normal con ausencia de perfusión": "Ventilación sin perfusión corresponde a espacio muerto.",
+      "Ventilación y perfusión aumentadas proporcionalmente": "La consolidación no aumenta ambas variables en paralelo.",
+      "Perfusión cero con ventilación aumentada": "Perfusión cero no corresponde al patrón típico de una región consolidada perfundida."
     },
-    "ideaClave": "El llenado alveolar genera unidades de baja V/Q."
+    "ideaClave": "Una región consolidada perfundida genera baja V/Q."
   },
   {
     "id": 322,
     "nivel": 2,
     "tema": "Shunt",
-    "pregunta": "Consolidación extensa y escasa mejoría de la hipoxemia con O₂ sugieren:",
-    "correcta_texto": "Shunt intrapulmonar importante",
+    "pregunta": "Paciente con consolidación extensa continúa muy hipoxémico pese a aumentar FiO₂. ¿Qué mecanismo explica mejor la escasa respuesta?",
+    "correcta_texto": "Shunt por perfusión de unidades prácticamente no ventiladas",
     "alternativas": [
-      "Espacio muerto como única alteración",
-      "Shunt intrapulmonar importante",
-      "Aumento de afinidad de Hb como mecanismo principal",
-      "Hiperventilación aislada"
+      "Shunt por perfusión de unidades prácticamente no ventiladas",
+      "Aumento de hemoglobina",
+      "Espacio muerto aislado",
+      "Hiperventilación de zonas sanas"
     ],
     "feedbackIncorrecto": {
-      "Hiperventilación aislada": "La hiperventilación no explica pobre respuesta al O₂.",
-      "Espacio muerto como única alteración": "El espacio muerto aislado no reproduce el patrón de shunt.",
-      "Aumento de afinidad de Hb como mecanismo principal": "La afinidad de Hb no explica el contexto de consolidación perfundida."
+      "Hiperventilación de zonas sanas": "La hiperventilación de zonas sanas no explica una pobre respuesta al oxígeno.",
+      "Aumento de hemoglobina": "La hemoglobina no aumenta de forma aguda por administrar oxígeno.",
+      "Espacio muerto aislado": "El espacio muerto no explica igual una unidad perfundida sin ventilación."
     },
-    "ideaClave": "El shunt responde menos al oxígeno suplementario."
+    "ideaClave": "El shunt verdadero responde menos al oxígeno suplementario."
   },
   {
     "id": 323,
     "nivel": 2,
     "tema": "Inflamación",
-    "pregunta": "¿Qué mediadores liberados por macrófagos participan tempranamente en la respuesta inflamatoria alveolar?",
-    "correcta_texto": "IL-1 y TNF-α",
+    "pregunta": "En una neumonía bacteriana, ¿qué secuencia explica mejor la consolidación?",
+    "correcta_texto": "Activación de macrófagos → citocinas → neutrófilos/permeabilidad → exudado alveolar",
     "alternativas": [
-      "Renina y eritropoyetina",
-      "IL-1 y TNF-α",
-      "Insulina y glucagón",
-      "T3 y T4"
+      "Hiperventilación → edema → resolución",
+      "Vasoconstricción total → ausencia de perfusión → consolidación",
+      "Fibroblastos → colágeno → broncodilatación → aire alveolar",
+      "Activación de macrófagos → citocinas → neutrófilos/permeabilidad → exudado alveolar"
     ],
     "feedbackIncorrecto": {
-      "Insulina y glucagón": "Son hormonas metabólicas, no mediadores centrales de esta respuesta.",
-      "T3 y T4": "Las hormonas tiroideas no explican el reclutamiento inflamatorio alveolar.",
-      "Renina y eritropoyetina": "Renina y eritropoyetina pertenecen a otros sistemas fisiológicos."
+      "Fibroblastos → colágeno → broncodilatación → aire alveolar": "La fibrosis no es el mecanismo inicial de consolidación aguda.",
+      "Vasoconstricción total → ausencia de perfusión → consolidación": "La consolidación no exige ausencia completa de perfusión.",
+      "Hiperventilación → edema → resolución": "La hiperventilación no desencadena por sí sola edema inflamatorio."
     },
-    "ideaClave": "IL-1 y TNF-α participan en activación endotelial y respuesta inflamatoria."
+    "ideaClave": "La consolidación resulta de inflamación y fuga capilar."
   },
   {
     "id": 324,
     "nivel": 2,
     "tema": "Neutrófilos",
-    "pregunta": "¿Por qué los neutrófilos pueden controlar infección y a la vez contribuir a daño pulmonar?",
-    "correcta_texto": "Fagocitan microorganismos pero liberan enzimas y oxidantes potencialmente lesivos",
+    "pregunta": "¿Por qué los neutrófilos pueden controlar la infección y a la vez agravar lesión pulmonar?",
+    "correcta_texto": "Fagocitan patógenos pero liberan enzimas y oxidantes lesivos",
     "alternativas": [
-      "Transforman exudado en aire",
-      "Sustituyen al surfactante",
-      "Fagocitan microorganismos pero liberan enzimas y oxidantes potencialmente lesivos",
-      "Eliminan toda inflamación de inmediato"
+      "Disminuyen toda permeabilidad capilar",
+      "Producen surfactante",
+      "Eliminan citocinas inflamatorias de inmediato",
+      "Fagocitan patógenos pero liberan enzimas y oxidantes lesivos"
     ],
     "feedbackIncorrecto": {
-      "Eliminan toda inflamación de inmediato": "Los neutrófilos participan en inflamación y no la eliminan de inmediato.",
-      "Sustituyen al surfactante": "No cumplen la función del surfactante.",
-      "Transforman exudado en aire": "No transforman exudado en aire."
+      "Producen surfactante": "Los neutrófilos no son la fuente principal de surfactante.",
+      "Disminuyen toda permeabilidad capilar": "La inflamación neutrofílica no reduce toda permeabilidad.",
+      "Eliminan citocinas inflamatorias de inmediato": "No apagan de inmediato la respuesta inflamatoria."
     },
-    "ideaClave": "La respuesta inmune puede ser protectora y lesiva."
+    "ideaClave": "La respuesta inmune puede ser protectora y lesiva simultáneamente."
   },
   {
     "id": 325,
     "nivel": 2,
     "tema": "Mecánica",
-    "pregunta": "Un paciente respira rápido y superficial por neumonía lobar. ¿Qué combinación lo explica mejor?",
-    "correcta_texto": "Menor distensibilidad, dolor pleural e hipoxemia",
+    "pregunta": "Paciente con neumonía presenta volumen corriente bajo y FR alta. ¿Qué mecanismo lo explica mejor?",
+    "correcta_texto": "Menor distensibilidad hace costosas las inspiraciones profundas",
     "alternativas": [
-      "Mayor distensibilidad y ausencia de dolor",
-      "Aumento de surfactante y menor trabajo respiratorio",
-      "Disminución del estímulo ventilatorio",
-      "Menor distensibilidad, dolor pleural e hipoxemia"
+      "Mayor distensibilidad facilita respiración superficial",
+      "Menor distensibilidad hace costosas las inspiraciones profundas",
+      "Aumento de surfactante reduce expansión",
+      "Ausencia de dolor pleural"
     ],
     "feedbackIncorrecto": {
-      "Mayor distensibilidad y ausencia de dolor": "La consolidación reduce distensibilidad.",
-      "Aumento de surfactante y menor trabajo respiratorio": "La disfunción de surfactante aumenta, no reduce, el trabajo.",
-      "Disminución del estímulo ventilatorio": "Hipoxemia y fiebre aumentan demanda ventilatoria."
+      "Mayor distensibilidad facilita respiración superficial": "Mayor distensibilidad facilitaría expansión profunda.",
+      "Aumento de surfactante reduce expansión": "Más surfactante funcional no explica el patrón.",
+      "Ausencia de dolor pleural": "El dolor pleurítico puede contribuir, no estar ausente obligatoriamente."
     },
-    "ideaClave": "La neumonía puede aumentar el trabajo respiratorio."
+    "ideaClave": "Pulmón más rígido favorece respiración rápida y superficial."
   },
   {
     "id": 326,
     "nivel": 2,
-    "tema": "CO₂",
-    "pregunta": "PaCO₂ baja al inicio de una neumonía hipoxémica se explica mejor por:",
-    "correcta_texto": "Hiperventilación secundaria a hipoxemia y aumento de demanda",
+    "tema": "Surfactante",
+    "pregunta": "¿Cómo puede el exudado alveolar empeorar la mecánica además de ocupar espacio aéreo?",
+    "correcta_texto": "Alterando la función del surfactante y aumentando tensión superficial",
     "alternativas": [
-      "Hipoventilación grave",
-      "Falla ventilatoria avanzada",
-      "Hiperventilación secundaria a hipoxemia y aumento de demanda",
-      "Ausencia de estímulo respiratorio"
+      "Aumentando la estabilidad alveolar",
+      "Alterando la función del surfactante y aumentando tensión superficial",
+      "Eliminando el riesgo de atelectasia",
+      "Mejorando el reclutamiento alveolar"
     ],
     "feedbackIncorrecto": {
-      "Falla ventilatoria avanzada": "La falla ventilatoria avanzada tiende a elevar CO₂.",
-      "Hipoventilación grave": "La hipoventilación retiene CO₂.",
-      "Ausencia de estímulo respiratorio": "La ausencia de estímulo no causa hipocapnia."
+      "Aumentando la estabilidad alveolar": "La alteración del surfactante reduce estabilidad.",
+      "Eliminando el riesgo de atelectasia": "Puede aumentar, no eliminar, la tendencia al colapso.",
+      "Mejorando el reclutamiento alveolar": "No mejora automáticamente el reclutamiento."
     },
-    "ideaClave": "La hipocapnia inicial puede reflejar hiperventilación."
+    "ideaClave": "El exudado afecta ventilación y estabilidad alveolar."
   },
   {
     "id": 327,
     "nivel": 2,
-    "tema": "CO₂",
-    "pregunta": "PaCO₂ que aumenta con fatiga y respiración superficial en neumonía grave sugiere:",
-    "correcta_texto": "Insuficiencia ventilatoria en desarrollo",
+    "tema": "Dolor pleurítico",
+    "pregunta": "Paciente con dolor pleurítico intenso evita inspirar profundo. ¿Qué consecuencia funcional puede aparecer?",
+    "correcta_texto": "Menor expansión regional y tos menos eficaz",
     "alternativas": [
-      "Compensación efectiva",
-      "Mejoría del intercambio gaseoso",
-      "Insuficiencia ventilatoria en desarrollo",
-      "Resolución alveolar"
+      "Disminución del trabajo respiratorio",
+      "Aumento del aclaramiento mucociliar",
+      "Menor expansión regional y tos menos eficaz",
+      "Aumento de distensibilidad"
     ],
     "feedbackIncorrecto": {
-      "Mejoría del intercambio gaseoso": "El aumento de CO₂ con fatiga indica deterioro.",
-      "Compensación efectiva": "Una compensación efectiva suele mantener o reducir CO₂.",
-      "Resolución alveolar": "La resolución debería disminuir el trabajo respiratorio."
+      "Aumento del aclaramiento mucociliar": "El dolor puede reducir la limpieza de secreciones.",
+      "Disminución del trabajo respiratorio": "La respiración dolorosa suele aumentar el costo ventilatorio.",
+      "Aumento de distensibilidad": "No mejora la distensibilidad."
     },
-    "ideaClave": "Hipercapnia progresiva puede indicar agotamiento ventilatorio."
+    "ideaClave": "El dolor puede empeorar ventilación y movilización de secreciones."
   },
   {
     "id": 328,
     "nivel": 2,
-    "tema": "Clasificación",
-    "pregunta": "Síntomas iniciados antes del ingreso y diagnóstico de neumonía 24 h después. ¿Clasificación más apropiada?",
-    "correcta_texto": "NAC",
+    "tema": "PaCO2 baja",
+    "pregunta": "Paciente con neumonía moderada presenta FR 32/min y PaCO₂ baja. ¿Qué interpretación es más coherente?",
+    "correcta_texto": "Existe hiperventilación compensatoria",
     "alternativas": [
-      "NAV",
-      "HAP",
-      "NAC",
-      "Aspiración por definición"
+      "Se resolvió la hipoxemia",
+      "Existe hiperventilación compensatoria",
+      "Hay fracaso ventilatorio avanzado",
+      "Existe hipoventilación central"
     ],
     "feedbackIncorrecto": {
-      "HAP": "HAP requiere inicio ≥48 h tras ingreso y sin incubación previa.",
-      "NAV": "NAV requiere ventilación mecánica.",
-      "Aspiración por definición": "La aspiración se define por mecanismo, no por cronología hospitalaria."
+      "Hay fracaso ventilatorio avanzado": "El fracaso ventilatorio tiende a elevar PaCO₂.",
+      "Existe hipoventilación central": "La hipoventilación también retiene CO₂.",
+      "Se resolvió la hipoxemia": "PaCO₂ baja no demuestra resolución de hipoxemia."
     },
-    "ideaClave": "El contexto temporal orienta la clasificación."
+    "ideaClave": "La hipocapnia puede acompañar una respuesta ventilatoria aumentada."
   },
   {
     "id": 329,
     "nivel": 2,
-    "tema": "Clasificación",
-    "pregunta": "Nueva neumonía a las 72 h de intubación corresponde a:",
-    "correcta_texto": "NAV",
+    "tema": "PaCO2 alta",
+    "pregunta": "Paciente con neumonía grave pasa de PaCO₂ 32 a 50 mmHg mientras aumenta la fatiga. ¿Qué sugiere?",
+    "correcta_texto": "Deterioro de la ventilación alveolar",
     "alternativas": [
-      "HAP no asociada a ventilador",
-      "NAC",
-      "Neumonitis química",
-      "NAV"
+      "Resolución del compromiso pulmonar",
+      "Deterioro de la ventilación alveolar",
+      "Mejor compensación",
+      "Mayor eficiencia muscular"
     ],
     "feedbackIncorrecto": {
-      "NAC": "La NAC no corresponde a este contexto.",
-      "Neumonitis química": "La neumonitis química requiere aspiración de contenido irritante.",
-      "HAP no asociada a ventilador": "La asociación temporal con intubación orienta específicamente a NAV."
+      "Mejor compensación": "La elevación de CO₂ con fatiga indica deterioro.",
+      "Mayor eficiencia muscular": "La fatiga reduce eficiencia ventilatoria.",
+      "Resolución del compromiso pulmonar": "No corresponde a una evolución favorable."
     },
-    "ideaClave": "NAV aparece >48 h después de intubación."
+    "ideaClave": "La retención de CO₂ en este contexto es un signo de alarma."
   },
   {
     "id": 330,
     "nivel": 2,
-    "tema": "Etiología",
-    "pregunta": "En un adulto con EPOC y NAC bacteriana, ¿qué agente es plausible?",
-    "correcta_texto": "Haemophilus influenzae",
+    "tema": "Aspiración",
+    "pregunta": "Paciente con ACV, disfagia y tos inefectiva desarrolla consolidación dependiente. ¿Qué mecanismo es más probable?",
+    "correcta_texto": "Microaspiración repetida de secreciones orofaríngeas",
     "alternativas": [
-      "SARS-CoV-2 como bacteria",
-      "Influenza como bacteria",
-      "Adenovirus como bacteria",
-      "Haemophilus influenzae"
+      "Hiperperfusión sin infección",
+      "Microaspiración repetida de secreciones orofaríngeas",
+      "Aumento de surfactante",
+      "Disminución de colonización orofaríngea"
     ],
     "feedbackIncorrecto": {
-      "SARS-CoV-2 como bacteria": "SARS-CoV-2 es viral.",
-      "Influenza como bacteria": "Influenza es viral.",
-      "Adenovirus como bacteria": "Adenovirus es viral."
+      "Aumento de surfactante": "El surfactante no explica la entrada de material aspirado.",
+      "Hiperperfusión sin infección": "La consolidación infecciosa no se explica solo por hiperperfusión.",
+      "Disminución de colonización orofaríngea": "La alteración de deglución no disminuye colonización."
     },
-    "ideaClave": "H. influenzae es relevante en enfermedad respiratoria crónica."
+    "ideaClave": "Disfagia y tos inefectiva favorecen aspiración."
   },
   {
     "id": 331,
     "nivel": 2,
-    "tema": "Etiología",
-    "pregunta": "Paciente debilitado con consumo crónico de alcohol y neumonía grave: ¿qué agente clásico puede considerarse?",
-    "correcta_texto": "Klebsiella pneumoniae",
+    "tema": "Posviral",
+    "pregunta": "Paciente con influenza mejora y 3 días después reaparecen fiebre alta y expectoración purulenta. ¿Qué interpretación es más probable?",
+    "correcta_texto": "Sobreinfección bacteriana",
     "alternativas": [
-      "Influenza",
-      "Klebsiella pneumoniae",
-      "Adenovirus",
-      "VRS"
+      "Sobreinfección bacteriana",
+      "Resolución completa",
+      "Neumonitis química obligatoria",
+      "NAV sin intubación"
     ],
     "feedbackIncorrecto": {
-      "VRS": "VRS es viral.",
-      "Influenza": "Influenza es viral.",
-      "Adenovirus": "Adenovirus es viral."
+      "Resolución completa": "El nuevo deterioro no indica resolución.",
+      "Neumonitis química obligatoria": "No existe un antecedente que obligue a pensar en aspiración química.",
+      "NAV sin intubación": "NAV requiere ventilación mecánica."
     },
-    "ideaClave": "K. pneumoniae se asocia clásicamente a pacientes debilitados y alcoholismo."
+    "ideaClave": "El deterioro bifásico puede sugerir coinfección bacteriana."
   },
   {
     "id": 332,
     "nivel": 2,
-    "tema": "Patrón clínico",
-    "pregunta": "Inicio abrupto, fiebre alta, tos productiva y consolidación lobar orientan más a:",
-    "correcta_texto": "Neumonía bacteriana",
+    "tema": "HAP",
+    "pregunta": "Paciente ingresado hace 5 días desarrolla una nueva consolidación y fiebre, sin ventilación mecánica. ¿Cómo se clasifica?",
+    "correcta_texto": "Neumonía hospitalaria",
     "alternativas": [
-      "Atelectasia aislada",
-      "Neumonía viral exclusivamente",
-      "Neumonía bacteriana",
-      "Neumonitis química"
+      "NAV",
+      "Neumonitis química",
+      "Neumonía hospitalaria",
+      "NAC"
     ],
     "feedbackIncorrecto": {
-      "Neumonía viral exclusivamente": "Los cuadros virales pueden superponerse, pero este patrón orienta más a bacteriana.",
-      "Neumonitis química": "La neumonitis química no implica síndrome infeccioso bacteriano típico.",
-      "Atelectasia aislada": "La atelectasia no explica por sí sola fiebre alta y expectoración purulenta."
+      "NAC": "El inicio ocurre claramente después del ingreso.",
+      "NAV": "Sin intubación no corresponde a NAV.",
+      "Neumonitis química": "No se describe un evento de aspiración química."
     },
-    "ideaClave": "El patrón clínico orienta, pero no confirma, etiología."
+    "ideaClave": "La HAP aparece ≥48 h tras el ingreso."
   },
   {
     "id": 333,
     "nivel": 2,
-    "tema": "Coinfección",
-    "pregunta": "Tras influenza, reaparecen fiebre y expectoración tras mejoría inicial. ¿Qué considerar?",
-    "correcta_texto": "Sobreinfección bacteriana",
+    "tema": "NAV",
+    "pregunta": "Paciente intubado hace 72 h desarrolla hipoxemia, secreciones purulentas y nueva opacidad. ¿Qué clasificación es más adecuada?",
+    "correcta_texto": "NAV",
     "alternativas": [
-      "Atelectasia obligatoria",
-      "Hiperventilación psicógena",
-      "Resolución completa",
-      "Sobreinfección bacteriana"
+      "NAC",
+      "HAP no asociada a ventilación",
+      "NAV",
+      "Bronquitis simple"
     ],
     "feedbackIncorrecto": {
-      "Resolución completa": "El empeoramiento tras mejoría no sugiere resolución.",
-      "Atelectasia obligatoria": "La atelectasia no es obligatoria.",
-      "Hiperventilación psicógena": "No explica el patrón infeccioso."
+      "NAC": "El contexto es posterior a intubación.",
+      "HAP no asociada a ventilación": "La ventilación mecánica forma parte de la definición del cuadro.",
+      "Bronquitis simple": "La nueva opacidad sugiere compromiso parenquimatoso."
     },
-    "ideaClave": "El deterioro posviral puede sugerir sobreinfección bacteriana."
+    "ideaClave": "La NAV se relaciona temporalmente con ventilación invasiva."
   },
   {
     "id": 334,
     "nivel": 2,
-    "tema": "Diagnóstico",
-    "pregunta": "Fiebre, tos, taquipnea y nueva opacidad pulmonar: interpretación correcta:",
-    "correcta_texto": "Cuadro compatible con neumonía al integrar clínica e imagen",
+    "tema": "Gravedad",
+    "pregunta": "Paciente con NAC presenta FR 34/min, PAS 86 mmHg y confusión. ¿Qué significa fisiopatológicamente este conjunto?",
+    "correcta_texto": "Compromiso respiratorio y hemodinámico con alto riesgo",
     "alternativas": [
-      "La imagen identifica el germen con certeza",
-      "No es necesario valorar oxigenación",
-      "Cuadro compatible con neumonía al integrar clínica e imagen",
-      "La opacidad aislada define etiología"
+      "Cuadro leve por ser respiratorio",
+      "Compromiso respiratorio y hemodinámico con alto riesgo",
+      "Solo deshidratación sin gravedad pulmonar",
+      "Hallazgos irrelevantes si la radiografía es pequeña"
     ],
     "feedbackIncorrecto": {
-      "La imagen identifica el germen con certeza": "La radiografía no identifica con certeza el agente.",
-      "La opacidad aislada define etiología": "La opacidad no define por sí sola etiología.",
-      "No es necesario valorar oxigenación": "La oxigenación forma parte de la evaluación inicial."
+      "Cuadro leve por ser respiratorio": "Taquipnea, hipotensión y confusión son signos de gravedad.",
+      "Solo deshidratación sin gravedad pulmonar": "No puede reducirse a deshidratación sin integrar el cuadro.",
+      "Hallazgos irrelevantes si la radiografía es pequeña": "La gravedad clínica prevalece sobre el tamaño radiográfico aislado."
     },
-    "ideaClave": "El diagnóstico integra clínica, imagen y gravedad."
+    "ideaClave": "La gravedad se evalúa por repercusión sistémica y respiratoria."
   },
   {
     "id": 335,
     "nivel": 2,
-    "tema": "Gravedad",
-    "pregunta": "SpO₂ baja, hipotensión y confusión en neumonía implican:",
-    "correcta_texto": "Alto riesgo y reevaluación urgente",
+    "tema": "CURB65",
+    "pregunta": "¿Por qué un CURB-65 bajo no excluye gravedad en un paciente con SpO₂ 82%?",
+    "correcta_texto": "Porque el puntaje no sustituye la evaluación de oxigenación",
     "alternativas": [
-      "Esperar a que aumente fiebre",
-      "Ignorar saturación si la radiografía es leve",
-      "Alto riesgo y reevaluación urgente",
-      "Manejo ambulatorio automático"
+      "Porque el puntaje no sustituye la evaluación de oxigenación",
+      "Porque solo se aplica a NAV",
+      "Porque CURB-65 solo usa radiografía",
+      "Porque la hipoxemia no importa"
     ],
     "feedbackIncorrecto": {
-      "Manejo ambulatorio automático": "Son signos de alarma.",
-      "Esperar a que aumente fiebre": "La gravedad no depende de esperar más fiebre.",
-      "Ignorar saturación si la radiografía es leve": "La estabilidad clínica pesa más que una imagen aislada."
+      "Porque CURB-65 solo usa radiografía": "CURB-65 usa variables clínicas específicas.",
+      "Porque la hipoxemia no importa": "La hipoxemia es un criterio de alarma importante.",
+      "Porque solo se aplica a NAV": "CURB-65 se emplea en NAC adulta."
     },
-    "ideaClave": "Hipoxemia, hipotensión y confusión son signos de alarma."
+    "ideaClave": "Las escalas complementan, no reemplazan, el juicio clínico."
   },
   {
     "id": 336,
     "nivel": 2,
-    "tema": "CURB-65",
-    "pregunta": "¿Qué variable forma parte de CURB-65?",
-    "correcta_texto": "Frecuencia respiratoria ≥30/min",
+    "tema": "Radiografía",
+    "pregunta": "Paciente tiene fiebre y una opacidad nueva, pero también atelectasia posoperatoria posible. ¿Qué principio diagnóstico corresponde?",
+    "correcta_texto": "Correlacionar imagen con clínica y evolución",
     "alternativas": [
-      "SpO₂ >98%",
-      "Frecuencia cardiaca <60/min",
-      "Tos seca",
-      "Frecuencia respiratoria ≥30/min"
+      "La imagen identifica el germen",
+      "La clínica no aporta si hay radiografía",
+      "Toda opacidad es neumonía",
+      "Correlacionar imagen con clínica y evolución"
     ],
     "feedbackIncorrecto": {
-      "SpO₂ >98%": "No es criterio CURB-65.",
-      "Frecuencia cardiaca <60/min": "No es criterio CURB-65.",
-      "Tos seca": "El tipo de tos no integra el puntaje."
+      "Toda opacidad es neumonía": "Las opacidades tienen diagnósticos diferenciales.",
+      "La imagen identifica el germen": "La radiografía no identifica con certeza el agente.",
+      "La clínica no aporta si hay radiografía": "El diagnóstico requiere correlación clínica."
     },
-    "ideaClave": "CURB-65 incluye confusión, urea, FR, presión arterial y edad ≥65."
+    "ideaClave": "La imagen por sí sola no confirma etiología ni diagnóstico final."
   },
   {
     "id": 337,
     "nivel": 2,
-    "tema": "Microbiología",
-    "pregunta": "¿Por qué obtener muestras en NAC grave?",
-    "correcta_texto": "Para orientar y luego ajustar cobertura antimicrobiana",
+    "tema": "Empiema",
+    "pregunta": "Paciente persiste febril y desarrolla derrame pleural tabicado con pus. ¿Qué complicación explica la falta de respuesta?",
+    "correcta_texto": "Empiema",
     "alternativas": [
-      "Para demostrar que toda neumonía es bacteriana",
-      "Para orientar y luego ajustar cobertura antimicrobiana",
-      "Para retrasar tratamiento hasta resultados",
-      "Para reemplazar toda evaluación clínica"
+      "Absceso pulmonar intraparenquimatoso",
+      "Bronquitis",
+      "Empiema",
+      "Neumotórax simple"
     ],
     "feedbackIncorrecto": {
-      "Para reemplazar toda evaluación clínica": "Los cultivos complementan la clínica.",
-      "Para retrasar tratamiento hasta resultados": "No deben retrasar tratamiento urgente en inestables.",
-      "Para demostrar que toda neumonía es bacteriana": "No toda neumonía es bacteriana."
+      "Absceso pulmonar intraparenquimatoso": "El absceso está dentro del parénquima.",
+      "Bronquitis": "La bronquitis no produce pus pleural tabicado.",
+      "Neumotórax simple": "El neumotórax es aire pleural."
     },
-    "ideaClave": "La microbiología ayuda a dirigir el tratamiento."
+    "ideaClave": "El empiema puede perpetuar infección y requerir drenaje."
   },
   {
     "id": 338,
     "nivel": 2,
-    "tema": "Aspiración",
-    "pregunta": "Disfagia, fiebre y consolidación tras aspiraciones repetidas orientan más a:",
-    "correcta_texto": "Neumonía por aspiración",
+    "tema": "Absceso",
+    "pregunta": "Paciente desarrolla cavidad intraparenquimatosa con nivel hidroaéreo después de neumonía necrosante. ¿Qué complicación es?",
+    "correcta_texto": "Absceso pulmonar",
     "alternativas": [
-      "NAV si no está intubado",
-      "Bronquitis simple",
-      "Neumonía por aspiración",
-      "Neumonitis química obligatoria"
+      "Atelectasia",
+      "Empiema",
+      "Derrame simple",
+      "Absceso pulmonar"
     ],
     "feedbackIncorrecto": {
-      "Neumonitis química obligatoria": "El patrón infeccioso orienta a neumonía, no necesariamente a lesión química estéril.",
-      "NAV si no está intubado": "NAV requiere ventilación mecánica.",
-      "Bronquitis simple": "La consolidación excede una bronquitis simple."
+      "Empiema": "El empiema es pleural.",
+      "Derrame simple": "Un derrame simple no es cavidad intraparenquimatosa.",
+      "Atelectasia": "La atelectasia es pérdida de volumen, no cavidad purulenta."
     },
-    "ideaClave": "La disfagia aumenta riesgo de neumonía por aspiración."
+    "ideaClave": "El absceso es una colección purulenta dentro del parénquima."
   },
   {
     "id": 339,
     "nivel": 2,
-    "tema": "Complicaciones",
-    "pregunta": "Colección purulenta en espacio pleural después de neumonía corresponde a:",
-    "correcta_texto": "Empiema",
+    "tema": "Viral",
+    "pregunta": "¿Por qué un test viral positivo no permite descartar bacterias en neumonía grave?",
+    "correcta_texto": "Porque puede existir coinfección o sobreinfección",
     "alternativas": [
-      "Empiema",
-      "Bronquiectasia por definición",
-      "Absceso pulmonar",
-      "Edema cardiogénico"
+      "Porque puede existir coinfección o sobreinfección",
+      "Porque los virus se transforman en bacterias",
+      "Porque los cultivos siempre son falsos",
+      "Porque toda infección viral forma absceso"
     ],
     "feedbackIncorrecto": {
-      "Absceso pulmonar": "El absceso está dentro del parénquima.",
-      "Bronquiectasia por definición": "La bronquiectasia no es una colección pleural.",
-      "Edema cardiogénico": "El edema cardiogénico no es pus pleural."
+      "Porque los virus se transforman en bacterias": "Virus y bacterias son agentes distintos.",
+      "Porque toda infección viral forma absceso": "El absceso no es obligatorio en infección viral.",
+      "Porque los cultivos siempre son falsos": "Los cultivos tienen limitaciones, pero no son siempre falsos."
     },
-    "ideaClave": "Empiema = pus en el espacio pleural."
+    "ideaClave": "La detección viral no excluye coinfección."
   },
   {
     "id": 340,
     "nivel": 2,
-    "tema": "Complicaciones",
-    "pregunta": "Cavidad con pus dentro del parénquima tras neumonía necrosante corresponde a:",
-    "correcta_texto": "Absceso pulmonar",
+    "tema": "Microbiología",
+    "pregunta": "En una NAV grave, ¿por qué se intentan obtener muestras respiratorias?",
+    "correcta_texto": "Para dirigir y desescalar tratamiento según resultados",
     "alternativas": [
-      "Neumotórax",
-      "Absceso pulmonar",
-      "Derrame pleural simple",
-      "Empiema"
+      "Para retrasar antibióticos hasta tener cultivo",
+      "Para confirmar que siempre es gramnegativa",
+      "Para reemplazar la clínica",
+      "Para dirigir y desescalar tratamiento según resultados"
     ],
     "feedbackIncorrecto": {
-      "Empiema": "El empiema es pleural.",
-      "Derrame pleural simple": "Un derrame simple es líquido pleural.",
-      "Neumotórax": "Neumotórax es aire pleural."
+      "Para retrasar antibióticos hasta tener cultivo": "No debe retrasarse tratamiento urgente en un paciente inestable.",
+      "Para reemplazar la clínica": "La microbiología complementa la clínica.",
+      "Para confirmar que siempre es gramnegativa": "La etiología no es siempre un bacilo gramnegativo."
     },
-    "ideaClave": "El absceso es una cavidad purulenta intraparenquimatosa."
+    "ideaClave": "Las muestras ayudan a ajustar cobertura de forma racional."
   },
   {
     "id": 341,
     "nivel": 3,
-    "tema": "V/Q",
-    "pregunta": "Consolidación focal: ventilación cae, perfusión persiste. ¿Secuencia más coherente?",
-    "correcta_texto": "Baja V/Q → caída de PaO₂ → aumento de estímulo ventilatorio",
+    "tema": "Cadena fisiopatológica",
+    "pregunta": "¿Cuál secuencia integra mejor la fisiopatología de una neumonía bacteriana alveolar?",
+    "correcta_texto": "Microaspiración → activación macrofágica → neutrófilos/permeabilidad → exudado → baja V/Q",
     "alternativas": [
-      "Baja V/Q → caída de PaO₂ → aumento de estímulo ventilatorio",
-      "Perfusión cero → shunt",
-      "Espacio muerto → bradipnea",
-      "V/Q alta → hipoxemia"
+      "Microaspiración → broncodilatación → espacio muerto → hipercapnia inmediata",
+      "Exudado → mayor compliance → mejor ventilación",
+      "Microaspiración → activación macrofágica → neutrófilos/permeabilidad → exudado → baja V/Q",
+      "Inflamación → perfusión cero → shunt → hipoxemia"
     ],
     "feedbackIncorrecto": {
-      "Espacio muerto → bradipnea": "La consolidación perfundida genera baja V/Q, no espacio muerto puro.",
-      "V/Q alta → hipoxemia": "V/Q alta no explica la hipoxemia por consolidación.",
-      "Perfusión cero → shunt": "Sin perfusión no existe shunt."
+      "Microaspiración → broncodilatación → espacio muerto → hipercapnia inmediata": "La broncodilatación no es el eje fisiopatológico principal.",
+      "Inflamación → perfusión cero → shunt → hipoxemia": "El shunt requiere perfusión mantenida, no perfusión cero.",
+      "Exudado → mayor compliance → mejor ventilación": "El exudado reduce, no aumenta, la compliance."
     },
-    "ideaClave": "La baja V/Q contribuye a hipoxemia y taquipnea."
+    "ideaClave": "La neumonía conecta inflamación, consolidación y alteración V/Q."
   },
   {
     "id": 342,
     "nivel": 3,
-    "tema": "Shunt",
-    "pregunta": "¿Por qué un alvéolo completamente lleno de exudado puede generar shunt?",
-    "correcta_texto": "Porque mantiene perfusión con ventilación efectiva ausente",
+    "tema": "Shunt vs espacio muerto",
+    "pregunta": "En una zona consolidada que aún recibe sangre, ¿por qué no se considera principalmente espacio muerto?",
+    "correcta_texto": "Porque el problema dominante es falta de ventilación con perfusión conservada",
     "alternativas": [
-      "Porque mantiene perfusión con ventilación efectiva ausente",
-      "Porque elimina flujo sanguíneo",
-      "Porque mantiene ventilación sin perfusión",
-      "Porque aumenta difusión"
+      "Porque el problema dominante es falta de ventilación con perfusión conservada",
+      "Porque existe ventilación normal sin flujo sanguíneo",
+      "Porque la sangre no atraviesa esa región",
+      "Porque no existe perfusión"
     ],
     "feedbackIncorrecto": {
-      "Porque mantiene ventilación sin perfusión": "Ventilación sin perfusión es espacio muerto.",
-      "Porque aumenta difusión": "El exudado empeora el intercambio.",
-      "Porque elimina flujo sanguíneo": "Sin flujo no hay shunt."
+      "Porque no existe perfusión": "La perfusión se mantiene.",
+      "Porque existe ventilación normal sin flujo sanguíneo": "Esa descripción sí corresponde a espacio muerto.",
+      "Porque la sangre no atraviesa esa región": "La sangre continúa atravesando la región afectada."
     },
-    "ideaClave": "Shunt = perfusión sin ventilación efectiva."
+    "ideaClave": "La dirección del desacople V/Q define el mecanismo."
   },
   {
     "id": 343,
     "nivel": 3,
-    "tema": "Inflamación/Mecánica",
-    "pregunta": "¿Cómo se relacionan inflamación alveolar y mayor trabajo respiratorio?",
-    "correcta_texto": "Exudado y edema reducen distensibilidad y exigen más esfuerzo inspiratorio",
+    "tema": "O2 y shunt",
+    "pregunta": "¿Por qué el oxígeno suplementario corrige peor un shunt importante que una baja V/Q?",
+    "correcta_texto": "Porque parte de la sangre no entra en contacto con gas alveolar ventilado",
     "alternativas": [
-      "El exudado mejora surfactante",
-      "Exudado y edema reducen distensibilidad y exigen más esfuerzo inspiratorio",
-      "La inflamación elimina dolor pleural",
-      "La inflamación aumenta distensibilidad"
+      "Porque el oxígeno no llega a regiones sanas",
+      "Porque la hemoglobina no puede unirse a O₂",
+      "Porque parte de la sangre no entra en contacto con gas alveolar ventilado",
+      "Porque la perfusión aumenta demasiado en todo el pulmón"
     ],
     "feedbackIncorrecto": {
-      "La inflamación aumenta distensibilidad": "La consolidación vuelve el pulmón menos distensible.",
-      "El exudado mejora surfactante": "El exudado puede alterar surfactante.",
-      "La inflamación elimina dolor pleural": "La pleura inflamada puede doler y limitar expansión."
+      "Porque el oxígeno no llega a regiones sanas": "El oxígeno sí llega a regiones ventiladas.",
+      "Porque la hemoglobina no puede unirse a O₂": "La hemoglobina conserva capacidad de unión.",
+      "Porque la perfusión aumenta demasiado en todo el pulmón": "El problema es el paso de sangre por unidades no ventiladas."
     },
-    "ideaClave": "La neumonía compromete intercambio gaseoso y mecánica."
+    "ideaClave": "El shunt limita la eficacia del oxígeno suplementario."
   },
   {
     "id": 344,
     "nivel": 3,
-    "tema": "Surfactante",
-    "pregunta": "Alteración del surfactante favorece atelectasia porque:",
-    "correcta_texto": "Aumenta tensión superficial e inestabilidad alveolar",
+    "tema": "Mecánica e intercambio",
+    "pregunta": "¿Cómo se relacionan consolidación, distensibilidad e hipoxemia?",
+    "correcta_texto": "La consolidación reduce ventilación y compliance, aumentando trabajo respiratorio y baja V/Q",
     "alternativas": [
-      "No influye en estabilidad",
-      "Solo afecta perfusión",
-      "Disminuye tensión superficial",
-      "Aumenta tensión superficial e inestabilidad alveolar"
+      "La consolidación reduce ventilación y compliance, aumentando trabajo respiratorio y baja V/Q",
+      "La consolidación reduce perfusión a cero y elimina hipoxemia",
+      "La consolidación solo altera mecánica, no intercambio",
+      "La consolidación aumenta compliance y corrige V/Q"
     ],
     "feedbackIncorrecto": {
-      "Disminuye tensión superficial": "El surfactante normalmente reduce tensión superficial.",
-      "No influye en estabilidad": "Su función incluye estabilidad alveolar.",
-      "Solo afecta perfusión": "No actúa principalmente sobre perfusión."
+      "La consolidación aumenta compliance y corrige V/Q": "La compliance disminuye, no aumenta.",
+      "La consolidación reduce perfusión a cero y elimina hipoxemia": "La perfusión puede mantenerse y generar hipoxemia.",
+      "La consolidación solo altera mecánica, no intercambio": "La ocupación alveolar altera intercambio y mecánica."
     },
-    "ideaClave": "La disfunción de surfactante favorece colapso."
+    "ideaClave": "Una misma lesión alveolar explica alteraciones mecánicas y de oxigenación."
   },
   {
     "id": 345,
     "nivel": 3,
-    "tema": "Sepsis",
-    "pregunta": "¿Cómo puede una neumonía evolucionar a sepsis?",
-    "correcta_texto": "Respuesta sistémica desregulada con disfunción orgánica",
+    "tema": "Surfactante y atelectasia",
+    "pregunta": "¿Cómo puede la lesión epitelial neumónica amplificar la hipoxemia mediante el surfactante?",
+    "correcta_texto": "Menor función de surfactante favorece atelectasia y aumenta unidades de baja V/Q/shunt",
     "alternativas": [
-      "La neutrofilia evita todo daño",
-      "La consolidación siempre permanece local",
-      "Respuesta sistémica desregulada con disfunción orgánica",
-      "La fiebre impide progresión sistémica"
+      "Menor función de surfactante favorece atelectasia y aumenta unidades de baja V/Q/shunt",
+      "Mejora la estabilidad alveolar",
+      "Elimina el exudado",
+      "Aumenta el espacio muerto por hiperinsuflación"
     ],
     "feedbackIncorrecto": {
-      "La consolidación siempre permanece local": "La inflamación puede trascender el pulmón.",
-      "La fiebre impide progresión sistémica": "La fiebre no impide sepsis.",
-      "La neutrofilia evita todo daño": "La respuesta inmune no garantiza ausencia de daño sistémico."
+      "Mejora la estabilidad alveolar": "La pérdida de surfactante reduce estabilidad.",
+      "Aumenta el espacio muerto por hiperinsuflación": "El mecanismo no es hiperinsuflación.",
+      "Elimina el exudado": "No retira el exudado."
     },
-    "ideaClave": "Sepsis implica infección con disfunción orgánica."
+    "ideaClave": "La alteración del surfactante puede empeorar el desacople V/Q."
   },
   {
     "id": 346,
     "nivel": 3,
-    "tema": "SDRA",
-    "pregunta": "¿Qué mecanismo vincula neumonía grave con SDRA?",
-    "correcta_texto": "Daño alveolar difuso y aumento de permeabilidad",
+    "tema": "Fiebre y demanda",
+    "pregunta": "¿Por qué la fiebre puede empeorar el balance respiratorio en una neumonía?",
+    "correcta_texto": "Aumenta demanda metabólica y ventilatoria sobre un pulmón mecánicamente comprometido",
     "alternativas": [
-      "Disminución de permeabilidad",
-      "Broncodilatación aislada",
-      "Daño alveolar difuso y aumento de permeabilidad",
-      "Aumento funcional de surfactante"
+      "Aumenta demanda metabólica y ventilatoria sobre un pulmón mecánicamente comprometido",
+      "Disminuye frecuencia respiratoria por definición",
+      "Aumenta compliance pulmonar",
+      "Reduce consumo de O₂"
     ],
     "feedbackIncorrecto": {
-      "Broncodilatación aislada": "No explica daño alveolar difuso.",
-      "Disminución de permeabilidad": "El SDRA se asocia a mayor permeabilidad.",
-      "Aumento funcional de surfactante": "El daño alveolar suele alterar surfactante."
+      "Reduce consumo de O₂": "La fiebre suele aumentar metabolismo.",
+      "Disminuye frecuencia respiratoria por definición": "La respuesta ventilatoria tiende a aumentar, no disminuir.",
+      "Aumenta compliance pulmonar": "No mejora la compliance."
     },
-    "ideaClave": "La neumonía grave puede desencadenar daño alveolar difuso."
+    "ideaClave": "La fiebre aumenta demanda mientras la reserva ventilatoria puede estar reducida."
   },
   {
     "id": 347,
     "nivel": 3,
-    "tema": "Dolor pleurítico",
-    "pregunta": "¿Cómo puede el dolor pleurítico empeorar la fisiología respiratoria?",
-    "correcta_texto": "Limita inspiración profunda y favorece respiración superficial",
+    "tema": "Hipocapnia a hipercapnia",
+    "pregunta": "Un paciente pasa de PaCO₂ 30 a 55 mmHg mientras sigue taquipneico. ¿Qué cambio fisiopatológico es más probable?",
+    "correcta_texto": "La ventilación efectiva cae por fatiga pese a mantener frecuencia alta",
     "alternativas": [
-      "Elimina riesgo de atelectasia",
-      "Mejora aclaramiento de secreciones",
-      "Aumenta distensibilidad",
-      "Limita inspiración profunda y favorece respiración superficial"
+      "Mejora del intercambio",
+      "Hiperventilación cada vez más eficaz",
+      "Resolución de consolidación",
+      "La ventilación efectiva cae por fatiga pese a mantener frecuencia alta"
     ],
     "feedbackIncorrecto": {
-      "Aumenta distensibilidad": "El dolor no aumenta distensibilidad.",
-      "Mejora aclaramiento de secreciones": "Puede reducir la eficacia de la tos.",
-      "Elimina riesgo de atelectasia": "La respiración superficial puede favorecer menor expansión."
+      "Mejora del intercambio": "La retención de CO₂ indica menor ventilación alveolar efectiva.",
+      "Hiperventilación cada vez más eficaz": "La hiperventilación eficaz reduciría PaCO₂.",
+      "Resolución de consolidación": "La resolución tendería a mejorar, no empeorar, el intercambio."
     },
-    "ideaClave": "El dolor puede limitar ventilación profunda y tos."
+    "ideaClave": "La frecuencia alta no garantiza ventilación alveolar eficaz."
   },
   {
     "id": 348,
     "nivel": 3,
-    "tema": "Diagnóstico",
-    "pregunta": "¿Por qué una opacidad radiográfica no identifica el microorganismo causal?",
-    "correcta_texto": "Distintos agentes pueden producir patrones de imagen superpuestos",
+    "tema": "Neutrófilos y daño",
+    "pregunta": "En una neumonía grave, ¿por qué una respuesta neutrofílica intensa puede empeorar la distensibilidad?",
+    "correcta_texto": "Enzimas, oxidantes y edema inflamatorio aumentan lesión y ocupación alveolar",
     "alternativas": [
-      "Las bacterias nunca consolidan",
-      "La radiografía solo muestra pleura",
-      "Los virus siempre tienen radiografía normal",
-      "Distintos agentes pueden producir patrones de imagen superpuestos"
+      "Porque eliminan toda fibrina rápidamente",
+      "Enzimas, oxidantes y edema inflamatorio aumentan lesión y ocupación alveolar",
+      "Porque los neutrófilos aumentan surfactante",
+      "Porque reducen permeabilidad"
     ],
     "feedbackIncorrecto": {
-      "Las bacterias nunca consolidan": "Las bacterias sí pueden consolidar.",
-      "Los virus siempre tienen radiografía normal": "Las neumonías virales pueden alterar la imagen.",
-      "La radiografía solo muestra pleura": "La radiografía evalúa parénquima y otras estructuras."
+      "Porque los neutrófilos aumentan surfactante": "No aumentan surfactante funcional.",
+      "Porque reducen permeabilidad": "La inflamación aumenta permeabilidad.",
+      "Porque eliminan toda fibrina rápidamente": "La resolución de fibrina no es inmediata."
     },
-    "ideaClave": "La imagen debe correlacionarse con clínica y microbiología."
+    "ideaClave": "La intensidad inflamatoria puede aumentar rigidez pulmonar."
   },
   {
     "id": 349,
     "nivel": 3,
-    "tema": "NAC/HAP",
-    "pregunta": "¿Por qué el lugar de adquisición modifica el enfoque terapéutico?",
-    "correcta_texto": "Porque cambia el riesgo microbiológico y de resistencia",
+    "tema": "Sepsis",
+    "pregunta": "¿Cómo puede la neumonía pasar de un problema pulmonar a disfunción multiorgánica?",
+    "correcta_texto": "Mediadores sistémicos y respuesta desregulada alteran perfusión y función de órganos",
     "alternativas": [
-      "Porque toda NAC responde a los mismos antibióticos",
-      "Porque determina por sí solo la gravedad",
-      "Porque toda HAP es viral",
-      "Porque cambia el riesgo microbiológico y de resistencia"
+      "La hipoxemia nunca participa",
+      "La fiebre protege completamente la circulación",
+      "Mediadores sistémicos y respuesta desregulada alteran perfusión y función de órganos",
+      "La consolidación se propaga físicamente a todos los órganos"
     ],
     "feedbackIncorrecto": {
-      "Porque determina por sí solo la gravedad": "La gravedad requiere evaluación clínica.",
-      "Porque toda HAP es viral": "HAP puede ser bacteriana y resistente.",
-      "Porque toda NAC responde a los mismos antibióticos": "La NAC tiene variabilidad etiológica y de resistencia."
+      "La consolidación se propaga físicamente a todos los órganos": "La sepsis no consiste en extensión física de la consolidación.",
+      "La hipoxemia nunca participa": "La hipoxemia puede contribuir al daño sistémico.",
+      "La fiebre protege completamente la circulación": "La fiebre no evita la disfunción circulatoria."
     },
-    "ideaClave": "El contexto de adquisición orienta riesgo microbiológico."
+    "ideaClave": "La sepsis es una respuesta sistémica desregulada a la infección."
   },
   {
     "id": 350,
     "nivel": 3,
-    "tema": "Cultivos",
-    "pregunta": "¿Por qué son relevantes las muestras respiratorias en HAP/NAV?",
-    "correcta_texto": "Ayudan a identificar patógenos y ajustar cobertura",
+    "tema": "SDRA",
+    "pregunta": "¿Qué cambio diferencia una neumonía focal de una evolución hacia SDRA?",
+    "correcta_texto": "Extensión a daño alveolar difuso con permeabilidad aumentada bilateral",
     "alternativas": [
-      "Ayudan a identificar patógenos y ajustar cobertura",
-      "Reemplazan la evaluación de gravedad",
-      "Siempre permiten suspender antibióticos de inmediato",
-      "Determinan pronóstico sin clínica"
+      "Mayor broncodilatación focal",
+      "Disminución global de inflamación",
+      "Extensión a daño alveolar difuso con permeabilidad aumentada bilateral",
+      "Aumento de surfactante"
     ],
     "feedbackIncorrecto": {
-      "Siempre permiten suspender antibióticos de inmediato": "Un cultivo no obliga a suspender automáticamente.",
-      "Reemplazan la evaluación de gravedad": "La gravedad debe evaluarse clínicamente.",
-      "Determinan pronóstico sin clínica": "El pronóstico es multifactorial."
+      "Mayor broncodilatación focal": "La broncodilatación no define SDRA.",
+      "Disminución global de inflamación": "El SDRA implica inflamación y lesión difusa.",
+      "Aumento de surfactante": "El surfactante suele alterarse."
     },
-    "ideaClave": "La microbiología permite dirigir y desescalar tratamiento."
+    "ideaClave": "El SDRA representa una lesión alveolar difusa, no solo focal."
   },
   {
     "id": 351,
     "nivel": 3,
-    "tema": "Gravedad",
-    "pregunta": "¿Por qué un CURB-65 bajo no tranquiliza si existe hipoxemia importante?",
-    "correcta_texto": "Porque la escala no reemplaza la evaluación directa de oxigenación y estabilidad",
+    "tema": "NAC/HAP resistencia",
+    "pregunta": "¿Por qué una neumonía hospitalaria obliga a considerar epidemiología local y antibióticos previos?",
+    "correcta_texto": "Porque modifican la probabilidad de microorganismos resistentes",
     "alternativas": [
-      "Porque hipoxemia no modifica gravedad",
-      "Porque CURB-65 solo mide radiografía",
-      "Porque la escala no reemplaza la evaluación directa de oxigenación y estabilidad",
-      "Porque solo se usa en NAV"
+      "Porque modifican la probabilidad de microorganismos resistentes",
+      "Porque determinan si habrá shunt",
+      "Porque toda HAP es por el mismo germen",
+      "Porque cambian la anatomía del alvéolo"
     ],
     "feedbackIncorrecto": {
-      "Porque CURB-65 solo mide radiografía": "No mide solo radiografía.",
-      "Porque hipoxemia no modifica gravedad": "La hipoxemia es un signo relevante de gravedad.",
-      "Porque solo se usa en NAV": "CURB-65 se usa en NAC adulta, no NAV."
+      "Porque cambian la anatomía del alvéolo": "La anatomía alveolar no depende de la resistencia.",
+      "Porque determinan si habrá shunt": "El shunt depende del grado de ocupación alveolar.",
+      "Porque toda HAP es por el mismo germen": "La etiología hospitalaria es heterogénea."
     },
-    "ideaClave": "Las escalas apoyan, no sustituyen, el juicio clínico."
+    "ideaClave": "El entorno hospitalario modifica el riesgo microbiológico."
   },
   {
     "id": 352,
     "nivel": 3,
-    "tema": "Aspiración",
-    "pregunta": "¿Por qué disfagia y tos disminuida aumentan el riesgo de neumonía por aspiración?",
-    "correcta_texto": "Facilitan el paso de secreciones colonizadas hacia vías inferiores",
+    "tema": "Aspiración química vs infecciosa",
+    "pregunta": "Paciente aspira contenido gástrico y presenta hipoxemia inmediata sin fiebre. ¿Qué mecanismo es más probable inicialmente?",
+    "correcta_texto": "Lesión química del epitelio alveolar",
     "alternativas": [
-      "Mejoran aclaramiento mucociliar",
-      "Facilitan el paso de secreciones colonizadas hacia vías inferiores",
-      "Aumentan surfactante",
-      "Reducen colonización orofaríngea"
+      "Sobreinfección posviral",
+      "Lesión química del epitelio alveolar",
+      "Empiema inmediato",
+      "Infección bacteriana establecida de inmediato"
     ],
     "feedbackIncorrecto": {
-      "Aumentan surfactante": "El surfactante no evita la aspiración.",
-      "Reducen colonización orofaríngea": "La disfagia no reduce colonización.",
-      "Mejoran aclaramiento mucociliar": "Una tos débil empeora depuración."
+      "Infección bacteriana establecida de inmediato": "La infección bacteriana requiere tiempo para establecerse.",
+      "Empiema inmediato": "El empiema no aparece de forma inmediata.",
+      "Sobreinfección posviral": "No existe antecedente viral."
     },
-    "ideaClave": "La pérdida de mecanismos protectores favorece microaspiración."
+    "ideaClave": "La aspiración puede causar neumonitis química antes de una posible infección secundaria."
   },
   {
     "id": 353,
     "nivel": 3,
-    "tema": "Coinfección",
-    "pregunta": "¿Por qué un test viral positivo no excluye coinfección bacteriana?",
-    "correcta_texto": "Porque puede existir infección viral y bacteriana simultánea o secuencial",
+    "tema": "Resolución histológica",
+    "pregunta": "¿Por qué congestión, hepatización roja, gris y resolución no deben interpretarse como etapas obligatorias con tiempos rígidos?",
+    "correcta_texto": "Porque representan un modelo histopatológico clásico y la evolución real es variable",
     "alternativas": [
-      "Porque puede existir infección viral y bacteriana simultánea o secuencial",
-      "Porque los cultivos siempre son negativos",
-      "Porque toda neumonía viral forma absceso",
-      "Porque virus se transforman en bacterias"
+      "Porque no existen en neumonía",
+      "Porque solo ocurren en virus",
+      "Porque representan un modelo histopatológico clásico y la evolución real es variable",
+      "Porque toda neumonía salta directamente a fibrosis"
     ],
     "feedbackIncorrecto": {
-      "Porque virus se transforman en bacterias": "Virus y bacterias no se transforman entre sí.",
-      "Porque toda neumonía viral forma absceso": "El absceso no es obligatorio.",
-      "Porque los cultivos siempre son negativos": "Los cultivos pueden ser positivos o negativos."
+      "Porque no existen en neumonía": "Son patrones descritos clásicamente.",
+      "Porque solo ocurren en virus": "Se asocian sobre todo a patrón lobar bacteriano, no solo viral.",
+      "Porque toda neumonía salta directamente a fibrosis": "La fibrosis no es inevitable."
     },
-    "ideaClave": "La detección viral debe interpretarse con la evolución clínica."
+    "ideaClave": "Los patrones histológicos orientan, pero no predicen una cronología rígida."
   },
   {
     "id": 354,
     "nivel": 3,
-    "tema": "Resolución",
-    "pregunta": "¿Qué favorece la recuperación alveolar al controlarse la infección?",
-    "correcta_texto": "Reabsorción del exudado y eliminación de restos por macrófagos",
+    "tema": "Diagnóstico diferencial",
+    "pregunta": "¿Por qué atelectasia y neumonía pueden confundirse en imágenes pero no son equivalentes fisiopatológicamente?",
+    "correcta_texto": "La atelectasia es pérdida de aire/volumen; la neumonía es infección e inflamación parenquimatosa",
     "alternativas": [
-      "Aumento permanente de fibrina",
-      "Reabsorción del exudado y eliminación de restos por macrófagos",
-      "Destrucción progresiva del epitelio",
-      "Persistencia indefinida de neutrófilos"
+      "La atelectasia solo ocurre en pleura",
+      "Ambas implican pus pleural",
+      "La atelectasia es pérdida de aire/volumen; la neumonía es infección e inflamación parenquimatosa",
+      "Ambas son siempre infecciones"
     ],
     "feedbackIncorrecto": {
-      "Aumento permanente de fibrina": "La fibrina persistente dificulta resolución.",
-      "Destrucción progresiva del epitelio": "La destrucción no es el objetivo de la recuperación.",
-      "Persistencia indefinida de neutrófilos": "La inflamación debe resolverse."
+      "Ambas son siempre infecciones": "La atelectasia no requiere infección.",
+      "Ambas implican pus pleural": "El pus pleural corresponde a empiema.",
+      "La atelectasia solo ocurre en pleura": "La atelectasia afecta unidades pulmonares."
     },
-    "ideaClave": "La resolución requiere retirar exudado y restos."
+    "ideaClave": "El mismo hallazgo radiológico puede tener mecanismos distintos."
   },
   {
     "id": 355,
     "nivel": 3,
-    "tema": "Histopatología",
-    "pregunta": "¿Qué caracteriza la hepatización roja clásica?",
-    "correcta_texto": "Alvéolos con fibrina, eritrocitos y neutrófilos",
+    "tema": "CURB65 y fisiopatología",
+    "pregunta": "¿Por qué variables como confusión, taquipnea e hipotensión reflejan gravedad más allá de la infección local?",
+    "correcta_texto": "Indican repercusión neurológica, respiratoria y hemodinámica sistémica",
     "alternativas": [
-      "Alvéolos con fibrina, eritrocitos y neutrófilos",
-      "Ausencia de congestión",
-      "Alvéolos vacíos",
-      "Fibrosis madura"
+      "Solo reflejan tamaño de consolidación",
+      "No tienen relación con gravedad",
+      "Solo reflejan fiebre",
+      "Indican repercusión neurológica, respiratoria y hemodinámica sistémica"
     ],
     "feedbackIncorrecto": {
-      "Alvéolos vacíos": "Existe ocupación alveolar.",
-      "Fibrosis madura": "La fibrosis madura no define esta fase aguda.",
-      "Ausencia de congestión": "La fase incluye congestión y exudado."
+      "Solo reflejan fiebre": "No se explican solo por temperatura.",
+      "Solo reflejan tamaño de consolidación": "La gravedad no depende únicamente del tamaño radiológico.",
+      "No tienen relación con gravedad": "Son marcadores clínicos relevantes de deterioro."
     },
-    "ideaClave": "La hepatización roja refleja consolidación inflamatoria intensa."
+    "ideaClave": "La gravedad de NAC se relaciona con repercusión sistémica."
   },
   {
     "id": 356,
     "nivel": 3,
-    "tema": "Histopatología",
-    "pregunta": "¿Qué diferencia la hepatización gris de la roja?",
-    "correcta_texto": "Desintegración de eritrocitos con persistencia de exudado fibrinopurulento",
+    "tema": "Microbiología y desescalamiento",
+    "pregunta": "¿Por qué identificar un patógeno puede permitir desescalar antibióticos?",
+    "correcta_texto": "Porque reduce incertidumbre etiológica y evita cobertura innecesariamente amplia",
     "alternativas": [
-      "Normalización inmediata",
-      "Más eritrocitos intactos",
-      "Desaparición completa de neutrófilos",
-      "Desintegración de eritrocitos con persistencia de exudado fibrinopurulento"
+      "Porque elimina la necesidad de evaluar gravedad",
+      "Porque siempre acorta el tratamiento a un día",
+      "Porque reduce incertidumbre etiológica y evita cobertura innecesariamente amplia",
+      "Porque todo cultivo positivo significa infección invasiva"
     ],
     "feedbackIncorrecto": {
-      "Más eritrocitos intactos": "La fase gris sigue a la etapa rica en eritrocitos.",
-      "Desaparición completa de neutrófilos": "Pueden persistir neutrófilos.",
-      "Normalización inmediata": "La resolución ocurre después."
+      "Porque elimina la necesidad de evaluar gravedad": "La gravedad sigue requiriendo evaluación.",
+      "Porque todo cultivo positivo significa infección invasiva": "La interpretación del cultivo depende del contexto.",
+      "Porque siempre acorta el tratamiento a un día": "La duración depende de estabilidad y evolución."
     },
-    "ideaClave": "La hepatización gris sigue a la roja en el patrón clásico."
+    "ideaClave": "La microbiología puede hacer el tratamiento más dirigido."
   },
   {
     "id": 357,
     "nivel": 3,
-    "tema": "Complicaciones",
-    "pregunta": "¿Qué diferencia absceso pulmonar de empiema?",
-    "correcta_texto": "Absceso en parénquima; empiema en espacio pleural",
+    "tema": "Intervención kinésica",
+    "pregunta": "¿Por qué un paciente hipoxémico y fatigado puede requerir estabilización antes de técnicas exigentes?",
+    "correcta_texto": "Porque la reserva ventilatoria está reducida y el esfuerzo adicional puede empeorar el balance",
     "alternativas": [
-      "Absceso siempre pleural",
-      "Empiema intraalveolar",
-      "Ambos exclusivamente bronquiales",
-      "Absceso en parénquima; empiema en espacio pleural"
+      "Porque la hipoxemia mejora con ejercicio intenso",
+      "Porque toda kinesioterapia está contraindicada",
+      "Porque la tos debe evitarse siempre",
+      "Porque la reserva ventilatoria está reducida y el esfuerzo adicional puede empeorar el balance"
     ],
     "feedbackIncorrecto": {
-      "Ambos exclusivamente bronquiales": "No son lesiones bronquiales exclusivas.",
-      "Empiema intraalveolar": "El empiema es pleural.",
-      "Absceso siempre pleural": "El absceso es intraparenquimatoso."
+      "Porque toda kinesioterapia está contraindicada": "No hay contraindicación universal.",
+      "Porque la tos debe evitarse siempre": "La tos puede ser útil para movilizar secreciones.",
+      "Porque la hipoxemia mejora con ejercicio intenso": "El ejercicio intenso no corrige de forma segura una hipoxemia grave."
     },
-    "ideaClave": "La localización anatómica diferencia ambas complicaciones."
+    "ideaClave": "La intervención debe ajustarse a reserva respiratoria y estabilidad."
   },
   {
     "id": 358,
     "nivel": 3,
-    "tema": "Kinesiología",
-    "pregunta": "¿Por qué evaluar estabilidad antes de intensificar intervención kinésica?",
-    "correcta_texto": "Hipoxemia, inestabilidad hemodinámica o fatiga pueden modificar seguridad y objetivos",
+    "tema": "Falta de respuesta",
+    "pregunta": "¿Qué explicación debe considerarse si la fiebre persiste y la oxigenación empeora pese a tratamiento?",
+    "correcta_texto": "Complicación, resistencia, coinfección o diagnóstico alternativo",
     "alternativas": [
-      "Toda neumonía contraindica movilización",
-      "La tos siempre debe suprimirse",
-      "Hipoxemia, inestabilidad hemodinámica o fatiga pueden modificar seguridad y objetivos",
-      "La radiografía decide sola"
+      "Ausencia de infección obligatoria",
+      "Solo ansiedad",
+      "Complicación, resistencia, coinfección o diagnóstico alternativo",
+      "Resolución normal"
     ],
     "feedbackIncorrecto": {
-      "Toda neumonía contraindica movilización": "No existe contraindicación universal.",
-      "La radiografía decide sola": "La imagen debe integrarse con evaluación funcional.",
-      "La tos siempre debe suprimirse": "La tos puede ser un mecanismo útil de limpieza."
+      "Solo ansiedad": "La ansiedad no explica por sí sola deterioro infeccioso y gasométrico.",
+      "Resolución normal": "La resolución debería acompañarse de mejoría.",
+      "Ausencia de infección obligatoria": "La persistencia puede reflejar múltiples causas."
     },
-    "ideaClave": "La intervención se adapta al estado respiratorio y hemodinámico."
+    "ideaClave": "La falta de respuesta obliga a reevaluar mecanismo y complicaciones."
   },
   {
     "id": 359,
     "nivel": 3,
-    "tema": "Oxigenación",
-    "pregunta": "¿Por qué interpretar SpO₂ junto con FiO₂ y calidad de señal?",
-    "correcta_texto": "Porque soporte de O₂ y artefactos modifican su interpretación",
+    "tema": "Empiema y ventilación",
+    "pregunta": "¿Cómo puede un empiema empeorar la mecánica respiratoria además de mantener infección?",
+    "correcta_texto": "El líquido pleural puede restringir expansión del pulmón adyacente",
     "alternativas": [
-      "Porque no cambia en neumonía",
-      "Porque equivale exactamente a PaO₂",
-      "Porque soporte de O₂ y artefactos modifican su interpretación",
-      "Porque SpO₂ no se relaciona con oxigenación"
+      "Aumenta la compliance",
+      "Mejora la ventilación regional",
+      "El líquido pleural puede restringir expansión del pulmón adyacente",
+      "Reduce el trabajo respiratorio"
     ],
     "feedbackIncorrecto": {
-      "Porque SpO₂ no se relaciona con oxigenación": "Sí se relaciona con oxigenación.",
-      "Porque equivale exactamente a PaO₂": "SpO₂ y PaO₂ no son equivalentes.",
-      "Porque no cambia en neumonía": "Puede disminuir en neumonía."
+      "Aumenta la compliance": "El derrame pleural tiende a restringir expansión.",
+      "Mejora la ventilación regional": "No mejora la ventilación de la zona comprometida.",
+      "Reduce el trabajo respiratorio": "Puede aumentar el trabajo respiratorio."
     },
-    "ideaClave": "La SpO₂ requiere contexto clínico y técnico."
+    "ideaClave": "Las complicaciones pleurales afectan infección y mecánica."
   },
   {
     "id": 360,
     "nivel": 3,
-    "tema": "Falta de respuesta",
-    "pregunta": "Si el paciente no mejora, ¿qué debe reevaluarse?",
-    "correcta_texto": "Diagnóstico, adherencia, resistencia, coinfección y complicaciones",
+    "tema": "Absceso",
+    "pregunta": "¿Por qué un absceso pulmonar puede prolongar la enfermedad?",
+    "correcta_texto": "La cavidad necrótica con pus puede actuar como foco persistente de infección",
     "alternativas": [
-      "Diagnóstico, adherencia, resistencia, coinfección y complicaciones",
-      "Asumir origen viral",
-      "Solo aumentar O₂",
-      "Ignorar empiema"
+      "Porque aumenta surfactante",
+      "La cavidad necrótica con pus puede actuar como foco persistente de infección",
+      "Porque elimina exudado",
+      "Porque mejora perfusión"
     ],
     "feedbackIncorrecto": {
-      "Solo aumentar O₂": "Se requiere reevaluación amplia.",
-      "Asumir origen viral": "No toda falta de respuesta es viral.",
-      "Ignorar empiema": "Las complicaciones deben buscarse."
+      "Porque aumenta surfactante": "No mejora la función del surfactante.",
+      "Porque elimina exudado": "No representa eliminación efectiva del exudado.",
+      "Porque mejora perfusión": "No mejora directamente la perfusión."
     },
-    "ideaClave": "La evolución tórpida obliga a revisar causas y complicaciones."
+    "ideaClave": "La necrosis y cavitación dificultan la resolución completa."
   },
   {
     "id": 361,
     "nivel": 4,
-    "tema": "Caso V/Q",
-    "pregunta": "Paciente de 68 años con NAC, SpO₂ 86%, consolidación basal derecha y perfusión conservada. ¿Qué mecanismo explica mejor la hipoxemia?",
-    "correcta_texto": "Baja V/Q con posible componente de shunt",
+    "tema": "Etiología bacteriana",
+    "pregunta": "Adulto con NAC presenta inicio abrupto, fiebre alta, tos productiva y consolidación lobar. Si se busca el agente bacteriano clásico más frecuente dentro del material, ¿cuál es el más probable?",
+    "correcta_texto": "Streptococcus pneumoniae",
     "alternativas": [
-      "Hipoventilación central aislada",
-      "Espacio muerto puro",
-      "Baja V/Q con posible componente de shunt",
-      "Anemia como único mecanismo"
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus"
     ],
     "feedbackIncorrecto": {
-      "Espacio muerto puro": "La región está perfundida, por lo que no es espacio muerto puro.",
-      "Hipoventilación central aislada": "La consolidación regional explica mejor el trastorno.",
-      "Anemia como único mecanismo": "La anemia reduce contenido de O₂, pero no explica por sí sola la desaturación con consolidación."
+      "Staphylococcus aureus": "S. aureus es relevante especialmente en neumonía posinfluenza y cuadros necrosantes, pero no es el agente clásico más frecuente de NAC.",
+      "Haemophilus influenzae": "H. influenzae es una causa importante, en especial con enfermedad respiratoria crónica, pero no es el agente clásico más frecuente del material.",
+      "Klebsiella pneumoniae": "K. pneumoniae se asocia clásicamente a ciertos factores de riesgo y cuadros graves, pero no es el agente más frecuente de NAC."
     },
-    "ideaClave": "La consolidación perfundida genera baja V/Q y puede progresar a shunt."
+    "ideaClave": "El neumococo es el agente bacteriano clásico más frecuente de la NAC."
   },
   {
     "id": 362,
     "nivel": 4,
-    "tema": "Caso shunt",
-    "pregunta": "Consolidación bilateral extensa e hipoxemia severa que mejora poco con FiO₂ alta: mecanismo más probable:",
-    "correcta_texto": "Shunt intrapulmonar significativo",
+    "tema": "Etiología bacteriana",
+    "pregunta": "Paciente adulto con influenza mejora inicialmente y luego presenta fiebre alta, deterioro respiratorio, consolidación y cavitación. ¿Qué bacteria debe reconocerse especialmente?",
+    "correcta_texto": "Staphylococcus aureus",
     "alternativas": [
-      "Hiperventilación aislada",
-      "Mayor difusión de O₂",
-      "Shunt intrapulmonar significativo",
-      "Espacio muerto como única alteración"
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus"
     ],
     "feedbackIncorrecto": {
-      "Hiperventilación aislada": "La hiperventilación tendería a mejorar oxigenación.",
-      "Espacio muerto como única alteración": "No reproduce tan bien la pobre respuesta al O₂ en unidades no ventiladas.",
-      "Mayor difusión de O₂": "La difusión no aumenta con alvéolos ocupados por exudado."
+      "Streptococcus pneumoniae": "S. pneumoniae es frecuente en NAC, pero el deterioro posinfluenza con tendencia a necrosis/cavitación orienta más a otro agente del material.",
+      "Haemophilus influenzae": "H. influenzae se relaciona con enfermedad respiratoria crónica, pero no es la asociación clásica posinfluenza descrita.",
+      "Klebsiella pneumoniae": "K. pneumoniae puede producir cuadros graves, pero el antecedente posinfluenza orienta más fuertemente a S. aureus."
     },
-    "ideaClave": "El shunt responde menos al oxígeno suplementario."
+    "ideaClave": "S. aureus debe considerarse en neumonía bacteriana secundaria a influenza y puede asociarse a necrosis."
   },
   {
     "id": 363,
     "nivel": 4,
-    "tema": "Caso aspiración",
-    "pregunta": "Paciente con ACV, disfagia y tos débil desarrolla fiebre y consolidación. ¿Qué mecanismo favoreció la infección?",
-    "correcta_texto": "Microaspiración por falla de mecanismos protectores",
+    "tema": "Etiología bacteriana",
+    "pregunta": "Adulto con EPOC desarrolla una NAC bacteriana. Según las asociaciones etiológicas estudiadas, ¿qué microorganismo adquiere especial relevancia?",
+    "correcta_texto": "Haemophilus influenzae",
     "alternativas": [
-      "Aumento de surfactante",
-      "Menor colonización orofaríngea",
-      "Microaspiración por falla de mecanismos protectores",
-      "Aclaramiento mucociliar aumentado"
+      "Haemophilus influenzae",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Streptococcus pneumoniae únicamente por la EPOC"
     ],
     "feedbackIncorrecto": {
-      "Aumento de surfactante": "No evita la entrada de secreciones.",
-      "Menor colonización orofaríngea": "No se deriva de la disfagia.",
-      "Aclaramiento mucociliar aumentado": "La tos débil reduce, no aumenta, la depuración."
+      "Staphylococcus aureus": "S. aureus puede causar NAC, pero su asociación destacada en el material es la neumonía posterior a influenza.",
+      "Klebsiella pneumoniae": "K. pneumoniae se vincula clásicamente con pacientes debilitados, inmunocomprometidos o con trastorno por consumo de alcohol.",
+      "Streptococcus pneumoniae únicamente por la EPOC": "S. pneumoniae sigue siendo posible, pero la EPOC hace especialmente relevante considerar H. influenzae."
     },
-    "ideaClave": "Disfagia y tos disminuida aumentan riesgo de aspiración."
+    "ideaClave": "H. influenzae es una causa importante de neumonía en pacientes con enfermedad respiratoria crónica."
   },
   {
     "id": 364,
     "nivel": 4,
-    "tema": "Caso posviral",
-    "pregunta": "Tras influenza y mejoría parcial, aparecen fiebre alta, esputo purulento y deterioro. ¿Interpretación más adecuada?",
-    "correcta_texto": "Sobreinfección bacteriana posviral",
+    "tema": "Etiología bacteriana",
+    "pregunta": "Adulto debilitado con trastorno por consumo de alcohol presenta neumonía grave y expectoración espesa. ¿Qué bacteria corresponde mejor a la asociación clásica descrita en el material?",
+    "correcta_texto": "Klebsiella pneumoniae",
     "alternativas": [
-      "Neumonitis química obligatoria",
-      "NAV sin intubación",
-      "Sobreinfección bacteriana posviral",
-      "Resolución natural"
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae"
     ],
     "feedbackIncorrecto": {
-      "Resolución natural": "El empeoramiento no corresponde a resolución.",
-      "Neumonitis química obligatoria": "No hay antecedente que obligue a lesión química.",
-      "NAV sin intubación": "NAV requiere ventilación mecánica."
+      "Haemophilus influenzae": "H. influenzae se asocia especialmente a enfermedad respiratoria crónica, no a esta asociación clásica.",
+      "Staphylococcus aureus": "S. aureus destaca en neumonía posinfluenza y necrosante.",
+      "Streptococcus pneumoniae": "S. pneumoniae es muy frecuente en NAC, pero el perfil descrito orienta clásicamente a Klebsiella."
     },
-    "ideaClave": "El deterioro tras influenza puede sugerir sobreinfección bacteriana."
+    "ideaClave": "K. pneumoniae se asocia clásicamente a neumonía grave en pacientes debilitados o con consumo crónico de alcohol."
   },
   {
     "id": 365,
     "nivel": 4,
-    "tema": "Caso HAP",
-    "pregunta": "Paciente hospitalizado 5 días por cirugía desarrolla fiebre, secreciones y nueva consolidación; no está intubado. Clasificación:",
-    "correcta_texto": "Neumonía hospitalaria",
+    "tema": "Etiología bacteriana",
+    "pregunta": "¿Qué combinación agente-contexto está correctamente emparejada según el material de neumonía?",
+    "correcta_texto": "Staphylococcus aureus — neumonía posterior a influenza",
     "alternativas": [
-      "NAV",
-      "NAC",
-      "Neumonía hospitalaria",
-      "Neumonitis química por definición"
+      "Klebsiella pneumoniae — exclusivamente neumonía viral",
+      "Streptococcus pneumoniae — únicamente neumonía hospitalaria",
+      "Staphylococcus aureus — neumonía posterior a influenza",
+      "Haemophilus influenzae — exclusivamente paciente sin enfermedad respiratoria previa"
     ],
     "feedbackIncorrecto": {
-      "NAC": "El inicio ocurre después de varios días de hospitalización.",
-      "NAV": "Sin ventilación mecánica no es NAV.",
-      "Neumonitis química por definición": "No se demuestra aspiración química."
+      "Haemophilus influenzae — exclusivamente paciente sin enfermedad respiratoria previa": "H. influenzae se asocia justamente a pacientes con patología respiratoria crónica y no exclusivamente a sujetos sanos.",
+      "Klebsiella pneumoniae — exclusivamente neumonía viral": "K. pneumoniae es una bacteria y no se restringe a neumonía viral.",
+      "Streptococcus pneumoniae — únicamente neumonía hospitalaria": "S. pneumoniae es un agente clásico de NAC y no se limita a neumonía hospitalaria."
     },
-    "ideaClave": "HAP aparece ≥48 h después del ingreso."
+    "ideaClave": "El contexto clínico orienta la etiología, pero no la confirma por sí solo."
   },
   {
     "id": 366,
     "nivel": 4,
-    "tema": "Caso NAV",
-    "pregunta": "Paciente intubado hace 72 h presenta fiebre, secreciones purulentas, hipoxemia y nueva opacidad. Diagnóstico sindromático más coherente:",
-    "correcta_texto": "NAV",
+    "tema": "Tipos de neumonía",
+    "pregunta": "Un adulto presenta síntomas respiratorios antes de hospitalizarse y la neumonía se confirma durante las primeras 24 horas del ingreso. ¿Cómo se clasifica por lugar de adquisición?",
+    "correcta_texto": "Neumonía adquirida en la comunidad (NAC)",
     "alternativas": [
-      "NAC",
-      "NAV",
-      "Bronquitis simple",
-      "Neumonitis química obligatoria"
+      "Neumonía adquirida en la comunidad (NAC)",
+      "Neumonía por aspiración por definición",
+      "Neumonía hospitalaria (HAP)",
+      "Neumonía asociada a ventilación mecánica (NAV)"
     ],
     "feedbackIncorrecto": {
-      "NAC": "El contexto es hospitalario y posterior a intubación.",
-      "Bronquitis simple": "La opacidad e hipoxemia sugieren compromiso parenquimatoso.",
-      "Neumonitis química obligatoria": "No hay un evento químico que la haga obligatoria."
+      "Neumonía hospitalaria (HAP)": "La HAP aparece ≥48 h después del ingreso y no debe estar incubándose al ingresar.",
+      "Neumonía asociada a ventilación mecánica (NAV)": "La NAV exige relación temporal con intubación endotraqueal.",
+      "Neumonía por aspiración por definición": "La aspiración corresponde a un mecanismo de adquisición, no se deduce solo por el momento del diagnóstico."
     },
-    "ideaClave": "La cronología y el compromiso parenquimatoso orientan a NAV."
+    "ideaClave": "La NAC se adquiere fuera del hospital o se manifiesta antes de cumplir criterios de HAP."
   },
   {
     "id": 367,
     "nivel": 4,
-    "tema": "Caso gravedad",
-    "pregunta": "Paciente con NAC: FR 34/min, PA 86/54 mmHg y confusión. ¿Interpretación?",
-    "correcta_texto": "Alto riesgo; requiere evaluación hospitalaria urgente",
+    "tema": "Tipos de neumonía",
+    "pregunta": "Paciente hospitalizado por una fractura, sin síntomas respiratorios al ingreso, desarrolla neumonía al cuarto día y nunca fue intubado. ¿Cuál es la clasificación correcta?",
+    "correcta_texto": "Neumonía hospitalaria (HAP)",
     "alternativas": [
-      "Alto riesgo; requiere evaluación hospitalaria urgente",
-      "La radiografía decide sola",
-      "Manejo ambulatorio por tener <65 años",
-      "La hipotensión no modifica gravedad"
+      "NAV",
+      "Neumonía hospitalaria (HAP)",
+      "Neumonía viral por definición",
+      "NAC"
     ],
     "feedbackIncorrecto": {
-      "Manejo ambulatorio por tener <65 años": "La edad aislada no anula signos graves.",
-      "La radiografía decide sola": "La imagen no reemplaza la evaluación hemodinámica.",
-      "La hipotensión no modifica gravedad": "La hipotensión es un signo de gravedad."
+      "NAC": "El cuadro comienza después de 48 h de hospitalización y no estaba presente al ingreso.",
+      "NAV": "La NAV requiere intubación y ventilación mecánica.",
+      "Neumonía viral por definición": "El lugar de adquisición no determina que la etiología sea viral."
     },
-    "ideaClave": "Taquipnea, hipotensión y confusión son signos mayores de alarma."
+    "ideaClave": "La HAP se define por inicio ≥48 h tras el ingreso, sin incubación al momento de hospitalizarse."
   },
   {
     "id": 368,
     "nivel": 4,
-    "tema": "Caso CURB-65",
-    "pregunta": "Adulto de 72 años, FR 32/min y confusión. ¿Cómo usar CURB-65?",
-    "correcta_texto": "Como apoyo, integrado con oxigenación y juicio clínico",
+    "tema": "Tipos de neumonía",
+    "pregunta": "Paciente lleva 72 horas intubado y desarrolla fiebre, secreciones purulentas y una nueva consolidación. ¿Qué tipo de neumonía debe reconocerse?",
+    "correcta_texto": "Neumonía asociada a ventilación mecánica (NAV)",
     "alternativas": [
-      "Como reemplazo de toda evaluación",
-      "Usarlo para indicar alta si es bajo",
-      "Como apoyo, integrado con oxigenación y juicio clínico",
-      "Aplicarlo igual a NAV"
+      "Neumonía asociada a ventilación mecánica (NAV)",
+      "HAP no asociada a ventilación",
+      "Neumonitis química obligatoria",
+      "NAC"
     ],
     "feedbackIncorrecto": {
-      "Como reemplazo de toda evaluación": "Las escalas no sustituyen la evaluación directa.",
-      "Aplicarlo igual a NAV": "No está diseñado para NAV.",
-      "Usarlo para indicar alta si es bajo": "Otros signos graves pueden requerir hospitalización."
+      "NAC": "La NAC no corresponde al contexto posterior a varios días de intubación.",
+      "HAP no asociada a ventilación": "Aunque es hospitalaria, el dato definitorio adicional es la asociación temporal con ventilación mecánica.",
+      "Neumonitis química obligatoria": "No se describe un episodio de aspiración química que haga obligatoria esa explicación."
     },
-    "ideaClave": "CURB-65 apoya la estratificación de NAC adulta."
+    "ideaClave": "La NAV aparece >48 h después de la intubación endotraqueal."
   },
   {
     "id": 369,
     "nivel": 4,
-    "tema": "Caso empiema",
-    "pregunta": "Neumonía con fiebre persistente y derrame pleural tabicado con pus:",
-    "correcta_texto": "Empiema",
+    "tema": "Tipos de neumonía",
+    "pregunta": "Paciente con disfagia tras ACV presenta episodios repetidos de microaspiración y posteriormente fiebre, tos y consolidación. ¿Qué tipo de neumonía describe mejor el mecanismo?",
+    "correcta_texto": "Neumonía por aspiración",
     "alternativas": [
-      "Empiema",
-      "Atelectasia simple",
-      "Bronquitis",
-      "Absceso pulmonar"
+      "Neumonitis química exclusivamente",
+      "NAV",
+      "NAC definida solo por edad",
+      "Neumonía por aspiración"
     ],
     "feedbackIncorrecto": {
-      "Absceso pulmonar": "El absceso es intraparenquimatoso.",
-      "Atelectasia simple": "La atelectasia no implica pus pleural.",
-      "Bronquitis": "La bronquitis no produce colección purulenta pleural."
+      "Neumonitis química exclusivamente": "La presencia de un síndrome infeccioso posterior a aspiración repetida orienta a neumonía por aspiración, no necesariamente a lesión química estéril.",
+      "NAV": "La NAV requiere ventilación mecánica.",
+      "NAC definida solo por edad": "La edad no define por sí sola una categoría de NAC."
     },
-    "ideaClave": "El empiema es infección purulenta del espacio pleural."
+    "ideaClave": "La neumonía por aspiración ocurre tras entrada de material orofaríngeo y debe diferenciarse de neumonitis química."
   },
   {
     "id": 370,
     "nivel": 4,
-    "tema": "Caso absceso",
-    "pregunta": "Neumonía necrosante con cavidad intrapulmonar purulenta y nivel hidroaéreo:",
-    "correcta_texto": "Absceso pulmonar",
+    "tema": "Tipos de neumonía",
+    "pregunta": "¿Qué secuencia clasifica correctamente tres pacientes: uno con inicio extrahospitalario, otro con inicio al tercer día de hospitalización y otro con inicio 3 días después de intubación?",
+    "correcta_texto": "NAC — HAP — NAV",
     "alternativas": [
-      "Absceso pulmonar",
-      "NAV por definición",
-      "Empiema",
-      "Derrame pleural simple"
+      "HAP — NAC — NAV",
+      "NAV — HAP — NAC",
+      "NAC — NAV — HAP",
+      "NAC — HAP — NAV"
     ],
     "feedbackIncorrecto": {
-      "Empiema": "El empiema es pleural.",
-      "Derrame pleural simple": "Un derrame simple no forma cavidad intraparenquimatosa.",
-      "NAV por definición": "NAV se define por ventilación mecánica."
+      "HAP — NAC — NAV": "El primer caso se adquiere en comunidad y el segundo cumple criterio temporal de HAP.",
+      "NAC — NAV — HAP": "La intubación define NAV en el tercer caso, no en el segundo.",
+      "NAV — HAP — NAC": "El primer caso no corresponde a NAV y el tercero no corresponde a NAC."
     },
-    "ideaClave": "El absceso es una cavidad purulenta intraparenquimatosa."
+    "ideaClave": "El contexto y la cronología permiten diferenciar NAC, HAP y NAV."
   },
   {
     "id": 371,
     "nivel": 4,
-    "tema": "Caso sepsis",
-    "pregunta": "Neumonía con hipotensión persistente, alteración mental y disfunción orgánica:",
-    "correcta_texto": "Sepsis",
+    "tema": "NAC en adultos",
+    "pregunta": "Adulto con neumonía presenta disnea, taquipnea, crepitaciones y matidez. ¿Qué mecanismo integra mejor estos hallazgos?",
+    "correcta_texto": "Consolidación y ocupación alveolar con alteración del intercambio gaseoso",
     "alternativas": [
-      "Atelectasia aislada",
-      "Bronquitis",
-      "Neumonitis química simple",
-      "Sepsis"
+      "Aumento de aire alveolar",
+      "Hiperventilación sin lesión parenquimatosa",
+      "Consolidación y ocupación alveolar con alteración del intercambio gaseoso",
+      "Obstrucción exclusiva de vía aérea superior"
     ],
     "feedbackIncorrecto": {
-      "Bronquitis": "No explica disfunción orgánica sistémica.",
-      "Atelectasia aislada": "No define respuesta infecciosa sistémica.",
-      "Neumonitis química simple": "No equivale a sepsis."
+      "Obstrucción exclusiva de vía aérea superior": "La vía aérea superior no explica crepitaciones y matidez por consolidación.",
+      "Hiperventilación sin lesión parenquimatosa": "La hiperventilación aislada no explica los signos físicos de ocupación alveolar.",
+      "Aumento de aire alveolar": "La consolidación implica menos aire regional, no más."
     },
-    "ideaClave": "Sepsis = infección asociada a disfunción orgánica."
+    "ideaClave": "En el adulto, disnea/taquipnea y signos de consolidación deben relacionarse con ocupación alveolar e hipoxemia."
   },
   {
     "id": 372,
     "nivel": 4,
-    "tema": "Caso SDRA",
-    "pregunta": "Neumonía grave con hipoxemia intensa, infiltrados bilaterales y caída de distensibilidad:",
-    "correcta_texto": "SDRA",
+    "tema": "NAC en adultos",
+    "pregunta": "En un adulto mayor con neumonía, ¿qué presentación puede adquirir especial importancia además de los síntomas respiratorios clásicos?",
+    "correcta_texto": "Deterioro funcional o descompensación de enfermedades previas",
     "alternativas": [
-      "Sinusitis",
-      "SDRA",
-      "Laringitis",
-      "Bronquitis crónica estable"
+      "Ausencia obligatoria de toda manifestación sistémica",
+      "Aumento constante de la saturación",
+      "Hipertrofia muscular respiratoria aguda",
+      "Deterioro funcional o descompensación de enfermedades previas"
     ],
     "feedbackIncorrecto": {
-      "Sinusitis": "No explica infiltrados bilaterales e hipoxemia grave.",
-      "Laringitis": "Afecta vía aérea superior.",
-      "Bronquitis crónica estable": "No explica deterioro agudo difuso."
+      "Ausencia obligatoria de toda manifestación sistémica": "Los adultos mayores pueden presentar manifestaciones sistémicas o atípicas, no ausencia obligatoria de ellas.",
+      "Hipertrofia muscular respiratoria aguda": "La hipertrofia muscular no es un cambio agudo característico.",
+      "Aumento constante de la saturación": "La saturación puede disminuir si existe compromiso de oxigenación."
     },
-    "ideaClave": "La neumonía grave puede desencadenar daño alveolar difuso."
+    "ideaClave": "En personas mayores puede predominar deterioro funcional o descompensación de comorbilidades."
   },
   {
     "id": 373,
     "nivel": 4,
-    "tema": "Caso hipercapnia",
-    "pregunta": "PaCO₂ pasa de baja a elevada junto con fatiga y respiración superficial. ¿Qué preocupa?",
-    "correcta_texto": "Fracaso ventilatorio progresivo",
+    "tema": "NAC en adultos",
+    "pregunta": "Adulto con NAC presenta SpO₂ baja, hipotensión y alteración de conciencia. ¿Qué interpretación es más apropiada?",
+    "correcta_texto": "Son signos de alarma que sugieren compromiso de oxigenación y/o perfusión",
     "alternativas": [
-      "Aumento de difusión",
-      "Resolución de hipoxemia",
-      "Mejor compensación",
-      "Fracaso ventilatorio progresivo"
+      "Son hallazgos esperables de NAC leve",
+      "La alteración de conciencia solo refleja ansiedad",
+      "Son signos de alarma que sugieren compromiso de oxigenación y/o perfusión",
+      "La hipotensión no modifica el riesgo"
     ],
     "feedbackIncorrecto": {
-      "Mejor compensación": "El aumento de CO₂ con fatiga indica deterioro.",
-      "Resolución de hipoxemia": "No demuestra resolución.",
-      "Aumento de difusión": "No indica mejoría de difusión."
+      "Son hallazgos esperables de NAC leve": "Estos hallazgos no corresponden a una presentación leve.",
+      "La hipotensión no modifica el riesgo": "La hipotensión es un signo de gravedad.",
+      "La alteración de conciencia solo refleja ansiedad": "La alteración de conciencia puede reflejar hipoxemia o compromiso sistémico."
     },
-    "ideaClave": "Hipercapnia progresiva puede indicar agotamiento ventilatorio."
+    "ideaClave": "La evaluación de gravedad en adultos debe integrar oxigenación, hemodinamia y estado mental."
   },
   {
     "id": 374,
     "nivel": 4,
-    "tema": "Caso radiografía",
-    "pregunta": "Paciente febril con opacidad nueva, pero cuadro clínico dudoso y posible atelectasia. Principio correcto:",
-    "correcta_texto": "Correlacionar imagen con clínica antes de concluir neumonía",
+    "tema": "NAC en adultos",
+    "pregunta": "Un adulto con NAC presenta dolor torácico que aumenta al inspirar y evita toser. ¿Qué mecanismo explica mejor este hallazgo?",
+    "correcta_texto": "Irritación pleural que limita expansión y eficacia de la tos",
     "alternativas": [
-      "La radiografía identifica el germen",
-      "La clínica es irrelevante",
-      "Correlacionar imagen con clínica antes de concluir neumonía",
-      "Toda opacidad es neumonía"
+      "Aumento de distensibilidad pulmonar",
+      "Irritación pleural que limita expansión y eficacia de la tos",
+      "Mayor estabilidad alveolar por surfactante",
+      "Disminución de la inflamación pleural"
     ],
     "feedbackIncorrecto": {
-      "Toda opacidad es neumonía": "Las opacidades tienen diagnósticos diferenciales.",
-      "La radiografía identifica el germen": "La radiografía no identifica con certeza el agente.",
-      "La clínica es irrelevante": "El diagnóstico integra clínica e imagen."
+      "Aumento de distensibilidad pulmonar": "El dolor no indica aumento de distensibilidad.",
+      "Disminución de la inflamación pleural": "La irritación pleural implica inflamación, no reducción de ella.",
+      "Mayor estabilidad alveolar por surfactante": "El surfactante no explica el dolor pleurítico."
     },
-    "ideaClave": "Una imagen aislada no confirma neumonía ni etiología."
+    "ideaClave": "El dolor pleurítico puede limitar inspiración profunda y tos eficaz."
   },
   {
     "id": 375,
     "nivel": 4,
-    "tema": "Caso microbiología",
-    "pregunta": "NAV grave e inestable: se planea cultivo respiratorio. Principio correcto:",
-    "correcta_texto": "Obtener muestras si es posible sin retrasar tratamiento urgente",
+    "tema": "NAC en adultos",
+    "pregunta": "Adulto con sospecha de NAC tiene fiebre, tos y una nueva opacidad pulmonar. ¿Cuál es la interpretación diagnóstica más adecuada?",
+    "correcta_texto": "Integrar síntomas y signos con la nueva opacidad; la imagen sola no identifica el agente",
     "alternativas": [
-      "Omitir muestras porque nunca cambian manejo",
-      "Esperar siempre el cultivo antes de tratar",
-      "Obtener muestras si es posible sin retrasar tratamiento urgente",
-      "Usar cultivo para reemplazar clínica"
+      "La fiebre determina si es HAP o NAC",
+      "Integrar síntomas y signos con la nueva opacidad; la imagen sola no identifica el agente",
+      "La radiografía reemplaza la evaluación clínica",
+      "La opacidad identifica de forma definitiva la bacteria"
     ],
     "feedbackIncorrecto": {
-      "Esperar siempre el cultivo antes de tratar": "No debe retrasarse tratamiento urgente.",
-      "Omitir muestras porque nunca cambian manejo": "Las muestras pueden ayudar a dirigir y desescalar.",
-      "Usar cultivo para reemplazar clínica": "La microbiología complementa la evaluación clínica."
+      "La opacidad identifica de forma definitiva la bacteria": "Una imagen no identifica con certeza el microorganismo.",
+      "La radiografía reemplaza la evaluación clínica": "El diagnóstico requiere correlación clínica.",
+      "La fiebre determina si es HAP o NAC": "La clasificación por adquisición depende del contexto temporal, no de la intensidad de la fiebre."
     },
-    "ideaClave": "Las muestras son útiles, pero no deben retrasar tratamiento urgente."
+    "ideaClave": "En adultos, el diagnóstico se apoya en clínica más una nueva opacidad, sin asumir etiología por la imagen."
   },
   {
     "id": 376,
     "nivel": 4,
-    "tema": "Caso intervención",
-    "pregunta": "SpO₂ 84% con O₂, taquipnea intensa y agotamiento. Prioridad kinésica:",
-    "correcta_texto": "Reevaluar estabilidad y coordinar manejo respiratorio urgente antes de exigir ejercicio",
+    "tema": "Etiología y patrón",
+    "pregunta": "Adulto con cuadro de inicio gradual, mialgias, coriza, odinofagia y tos predominantemente seca. ¿Qué etiología general orienta más este patrón?",
+    "correcta_texto": "Viral",
     "alternativas": [
-      "Ejercicio intenso inmediato",
-      "Reevaluar estabilidad y coordinar manejo respiratorio urgente antes de exigir ejercicio",
-      "Ignorar saturación si coopera",
-      "Solo técnicas de tos sin evaluar fatiga"
+      "Hospitalaria por definición",
+      "Neumonía por aspiración obligatoria",
+      "Viral",
+      "Bacteriana típica exclusivamente"
     ],
     "feedbackIncorrecto": {
-      "Ejercicio intenso inmediato": "Puede ser inseguro.",
-      "Ignorar saturación si coopera": "La saturación baja es clínicamente relevante.",
-      "Solo técnicas de tos sin evaluar fatiga": "La fatiga y estabilidad deben evaluarse antes de elegir técnicas."
+      "Bacteriana típica exclusivamente": "La neumonía bacteriana típica suele asociarse más a inicio abrupto, fiebre alta y tos productiva, aunque existe superposición.",
+      "Neumonía por aspiración obligatoria": "No hay datos de aspiración que hagan obligatorio ese mecanismo.",
+      "Hospitalaria por definición": "El cuadro clínico no define por sí solo el lugar de adquisición."
     },
-    "ideaClave": "La seguridad y estabilidad preceden a la progresión terapéutica."
+    "ideaClave": "Los síntomas se superponen, pero un pródromo viral y tos seca orientan a etiología viral."
   },
   {
     "id": 377,
     "nivel": 4,
-    "tema": "Caso dolor pleurítico",
-    "pregunta": "Paciente evita toser por dolor y acumula secreciones. Relación correcta:",
-    "correcta_texto": "El dolor limita inspiración profunda y eficacia de la tos",
+    "tema": "Etiología y patrón",
+    "pregunta": "Adulto con neumonía presenta consolidación lobar, fiebre alta de inicio súbito, tos productiva y dolor pleurítico. ¿Qué etiología general es más compatible?",
+    "correcta_texto": "Bacteriana",
     "alternativas": [
-      "Mejora distensibilidad",
-      "Aumenta aclaramiento mucociliar",
-      "Elimina riesgo de atelectasia",
-      "El dolor limita inspiración profunda y eficacia de la tos"
+      "Bacteriana",
+      "Viral exclusivamente",
+      "Neumonitis química",
+      "Mixta obligatoriamente"
     ],
     "feedbackIncorrecto": {
-      "Aumenta aclaramiento mucociliar": "El dolor limita la movilización.",
-      "Mejora distensibilidad": "No mejora distensibilidad.",
-      "Elimina riesgo de atelectasia": "Puede favorecer menor expansión y retención de secreciones."
+      "Viral exclusivamente": "La neumonía viral puede superponerse, pero el patrón descrito es más típico de etiología bacteriana.",
+      "Mixta obligatoriamente": "No hay evidencia suficiente para afirmar coinfección obligatoria.",
+      "Neumonitis química": "La neumonitis química requiere un contexto de aspiración y no corresponde a este patrón infeccioso típico."
     },
-    "ideaClave": "El dolor pleurítico puede empeorar ventilación y limpieza de secreciones."
+    "ideaClave": "La clínica bacteriana típica incluye inicio abrupto, fiebre alta, tos productiva y dolor pleurítico."
   },
   {
     "id": 378,
     "nivel": 4,
-    "tema": "Caso resolución",
-    "pregunta": "Mejoría clínica tras NAC pero radiografía aún anormal. Interpretación razonable:",
-    "correcta_texto": "La resolución radiográfica puede retrasarse respecto de la mejoría clínica",
+    "tema": "Etiología mixta",
+    "pregunta": "Paciente comenzó con síndrome viral y después reaparecen fiebre y expectoración con deterioro respiratorio. ¿Qué tipo etiológico debe considerarse?",
+    "correcta_texto": "Neumonía mixta o sobreinfección bacteriana sobre infección viral",
     "alternativas": [
-      "La imagen nunca cambia",
-      "La resolución radiográfica puede retrasarse respecto de la mejoría clínica",
-      "Siempre significa fracaso",
-      "Obliga a UCI"
+      "Neumonitis química",
+      "Neumonía mixta o sobreinfección bacteriana sobre infección viral",
+      "Neumonía viral resuelta",
+      "NAC sin posibilidad de coinfección"
     ],
     "feedbackIncorrecto": {
-      "Siempre significa fracaso": "La radiografía puede normalizarse más lentamente.",
-      "Obliga a UCI": "La UCI depende de gravedad clínica.",
-      "La imagen nunca cambia": "Las opacidades pueden resolverse progresivamente."
+      "Neumonía viral resuelta": "El nuevo deterioro después de una mejoría no sugiere resolución viral.",
+      "Neumonitis química": "No existe un antecedente de aspiración química.",
+      "NAC sin posibilidad de coinfección": "Una NAC puede tener coinfección viral-bacteriana."
     },
-    "ideaClave": "La recuperación radiográfica puede ser más lenta que la clínica."
+    "ideaClave": "El empeoramiento tras un cuadro viral puede sugerir coinfección o sobreinfección bacteriana."
   },
   {
     "id": 379,
     "nivel": 4,
-    "tema": "Caso viral",
-    "pregunta": "Neumonía viral confirmada con deterioro, fiebre persistente y más secreciones. Principio correcto:",
-    "correcta_texto": "Considerar coinfección bacteriana si la evolución clínica lo sugiere",
+    "tema": "Etiología bacteriana",
+    "pregunta": "¿Cuál de las siguientes combinaciones de agentes corresponde al grupo bacteriano enseñado para neumonía?",
+    "correcta_texto": "Streptococcus pneumoniae, Haemophilus influenzae y Staphylococcus aureus",
     "alternativas": [
-      "Toda viral requiere cobertura anaerobia",
-      "Considerar coinfección bacteriana si la evolución clínica lo sugiere",
-      "El test viral excluye bacterias",
-      "La coinfección solo ocurre en NAV"
+      "Streptococcus pneumoniae, Haemophilus influenzae y Staphylococcus aureus",
+      "SARS-CoV-2, Haemophilus influenzae y adenovirus",
+      "Influenza, Streptococcus pneumoniae y VRS",
+      "Influenza, VRS y SARS-CoV-2"
     ],
     "feedbackIncorrecto": {
-      "El test viral excluye bacterias": "La detección viral no excluye coinfección.",
-      "Toda viral requiere cobertura anaerobia": "La cobertura anaerobia no es rutinaria por ser viral.",
-      "La coinfección solo ocurre en NAV": "La coinfección también puede ocurrir en NAC."
+      "Influenza, VRS y SARS-CoV-2": "Los tres agentes de esa alternativa son virales.",
+      "Influenza, Streptococcus pneumoniae y VRS": "La combinación mezcla virus y bacteria.",
+      "SARS-CoV-2, Haemophilus influenzae y adenovirus": "La combinación también mezcla virus y bacteria."
     },
-    "ideaClave": "Un resultado viral positivo debe interpretarse con la evolución clínica."
+    "ideaClave": "El material diferencia agentes bacterianos de virus respiratorios y contempla coinfección."
   },
   {
     "id": 380,
     "nivel": 4,
-    "tema": "Caso aspiración química",
-    "pregunta": "Tras aspirar contenido gástrico durante anestesia aparece hipoxemia inmediata sin fiebre inicial. ¿Qué proceso debe diferenciarse de neumonía infecciosa?",
-    "correcta_texto": "Neumonitis química",
+    "tema": "Etiología bacteriana",
+    "pregunta": "En un adulto con NAC, ¿qué principio debe aplicarse al relacionar presentación clínica y bacteria causal?",
+    "correcta_texto": "Los hallazgos orientan probabilidades, pero no confirman por sí solos el microorganismo",
     "alternativas": [
-      "Neumonitis química",
-      "Absceso inmediato",
-      "NAV automática",
-      "Empiema inmediato"
+      "Los hallazgos orientan probabilidades, pero no confirman por sí solos el microorganismo",
+      "La radiografía determina con certeza el agente",
+      "Un síntoma específico identifica siempre la bacteria",
+      "El contexto clínico no aporta información etiológica"
     ],
     "feedbackIncorrecto": {
-      "NAV automática": "La ventilación mecánica no convierte el evento de inmediato en NAV.",
-      "Absceso inmediato": "Un absceso no se forma instantáneamente.",
-      "Empiema inmediato": "El empiema no aparece de forma inmediata tras lesión química."
+      "Un síntoma específico identifica siempre la bacteria": "Los síntomas se superponen entre agentes.",
+      "La radiografía determina con certeza el agente": "La radiografía muestra patrones, pero no confirma el microorganismo.",
+      "El contexto clínico no aporta información etiológica": "El contexto sí orienta la sospecha etiológica, aunque no la demuestra."
     },
-    "ideaClave": "La aspiración puede producir lesión química estéril o infección; no son equivalentes."
+    "ideaClave": "El reconocimiento etiológico debe combinar contexto, clínica y estudios cuando estén indicados."
   }
 ]
