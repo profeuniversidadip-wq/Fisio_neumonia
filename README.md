@@ -24,3 +24,10 @@ El nivel 4 fue reconstruido por completo para Kinesiología de tercer año.
 - Características de neumonía en adultos y adultos mayores.
 - Etiología bacteriana, viral y mixta.
 - Feedback específico por distractor sin entregar la respuesta correcta en el primer intento.
+
+## Revisión v5 del nivel 4
+- Se eliminaron distractores absurdos o claramente descartables.
+- Todas las alternativas pertenecen al mismo dominio conceptual.
+- Varias alternativas pueden parecer inicialmente plausibles; se debe elegir la mejor según contexto.
+- Se equilibró la longitud y especificidad de las opciones para evitar pistas formales.
+- Se corrigió redacción y se evitó que el enunciado anticipe la respuesta.

@@ -1143,46 +1143,27 @@
     "id": 361,
     "nivel": 4,
     "tema": "Etiología bacteriana",
-    "pregunta": "Un adulto inmunocompetente consulta por fiebre de inicio brusco, tos productiva, dolor pleurítico y consolidación lobar. No tiene EPOC, no ha estado hospitalizado y no refiere influenza reciente. ¿Qué agente es el más coherente con este perfil epidemiológico y clínico?",
+    "pregunta": "Un adulto de 42 años, sin comorbilidades respiratorias ni hospitalizaciones recientes, presenta fiebre alta de inicio brusco, tos productiva, dolor pleurítico y consolidación lobar. ¿Qué agente debe ocupar el primer lugar en la sospecha etiológica?",
     "correcta_texto": "Streptococcus pneumoniae",
     "alternativas": [
+      "Staphylococcus aureus",
       "Klebsiella pneumoniae",
       "Haemophilus influenzae",
-      "Streptococcus pneumoniae",
-      "Staphylococcus aureus"
+      "Streptococcus pneumoniae"
     ],
     "feedbackIncorrecto": {
-      "Haemophilus influenzae": "H. influenzae es posible en NAC, pero el material lo destaca especialmente en pacientes con enfermedad respiratoria crónica como EPOC.",
-      "Staphylococcus aureus": "S. aureus debe considerarse especialmente en neumonía posinfluenza o cuadros necrosantes, antecedente que aquí no está presente.",
-      "Klebsiella pneumoniae": "K. pneumoniae se asocia clásicamente a pacientes debilitados, inmunocomprometidos o con trastorno por consumo de alcohol."
+      "Haemophilus influenzae": "H. influenzae sigue siendo posible, pero el caso no aporta la comorbilidad respiratoria crónica que aumenta especialmente su probabilidad.",
+      "Staphylococcus aureus": "S. aureus puede producir NAC grave, pero faltan antecedentes como influenza reciente o necrosis/cavitación que lo hagan más probable.",
+      "Klebsiella pneumoniae": "K. pneumoniae puede causar neumonía grave, pero el caso no muestra los factores de riesgo clásicos descritos en el material."
     },
-    "ideaClave": "El reconocimiento etiológico debe integrar patrón clínico y factores de riesgo, no un solo síntoma."
+    "ideaClave": "En NAC del adulto sin factores especiales, el neumococo sigue siendo una referencia etiológica central."
   },
   {
     "id": 362,
     "nivel": 4,
     "tema": "Etiología bacteriana",
-    "pregunta": "Un adulto con influenza confirmada mejora parcialmente y, 72 horas después, presenta fiebre alta, deterioro respiratorio rápido y una nueva consolidación con cavitación. ¿Qué agente bacteriano debe priorizarse en el razonamiento etiológico?",
+    "pregunta": "Un paciente de 58 años tuvo influenza confirmada. Tras una mejoría parcial reaparecen fiebre alta, hipoxemia y consolidación con áreas cavitadas. ¿Qué bacteria adquiere mayor probabilidad en este contexto?",
     "correcta_texto": "Staphylococcus aureus",
-    "alternativas": [
-      "Haemophilus influenzae",
-      "Staphylococcus aureus",
-      "Streptococcus pneumoniae",
-      "Mycoplasma pneumoniae"
-    ],
-    "feedbackIncorrecto": {
-      "Streptococcus pneumoniae": "S. pneumoniae sigue siendo un agente frecuente de NAC, pero el contexto posinfluenza con cavitación orienta con mayor fuerza hacia otro patógeno.",
-      "Haemophilus influenzae": "H. influenzae se vincula especialmente con enfermedad respiratoria crónica y no explica tan bien el patrón necrosante posviral.",
-      "Mycoplasma pneumoniae": "Mycoplasma puede causar NAC atípica, pero no es la asociación clásica descrita para deterioro necrosante posterior a influenza."
-    },
-    "ideaClave": "S. aureus es una asociación relevante en neumonía bacteriana secundaria a influenza."
-  },
-  {
-    "id": 363,
-    "nivel": 4,
-    "tema": "Etiología bacteriana",
-    "pregunta": "Un paciente de 71 años con EPOC estable desarrolla fiebre, aumento de disnea, expectoración purulenta y una nueva opacidad alveolar. ¿Qué microorganismo gana relevancia por la comorbilidad respiratoria de base?",
-    "correcta_texto": "Haemophilus influenzae",
     "alternativas": [
       "Klebsiella pneumoniae",
       "Streptococcus pneumoniae",
@@ -1190,333 +1171,352 @@
       "Staphylococcus aureus"
     ],
     "feedbackIncorrecto": {
-      "Streptococcus pneumoniae": "S. pneumoniae continúa siendo posible, pero la EPOC hace especialmente relevante considerar H. influenzae.",
-      "Staphylococcus aureus": "S. aureus se destaca más en cuadros posinfluenza o necrosantes.",
-      "Klebsiella pneumoniae": "K. pneumoniae se asocia clásicamente a debilitamiento, inmunocompromiso o trastorno por consumo de alcohol."
+      "Streptococcus pneumoniae": "S. pneumoniae sigue siendo frecuente en NAC, pero el patrón posinfluenza con cavitación desplaza la probabilidad hacia otro agente.",
+      "Haemophilus influenzae": "H. influenzae puede afectar a adultos con enfermedad respiratoria crónica, pero no es la asociación principal del escenario descrito.",
+      "Klebsiella pneumoniae": "K. pneumoniae puede producir necrosis, pero el antecedente posinfluenza es más orientador para S. aureus."
     },
-    "ideaClave": "Las comorbilidades modifican la probabilidad pretest de determinados agentes."
+    "ideaClave": "El contexto posinfluenza modifica la probabilidad etiológica y debe ponderarse más que un síntoma aislado."
+  },
+  {
+    "id": 363,
+    "nivel": 4,
+    "tema": "Etiología bacteriana",
+    "pregunta": "Un adulto de 69 años con EPOC consulta por fiebre, incremento de disnea y expectoración purulenta; la radiografía muestra una nueva opacidad alveolar. ¿Qué agente merece una consideración especialmente alta por su comorbilidad?",
+    "correcta_texto": "Haemophilus influenzae",
+    "alternativas": [
+      "Streptococcus pneumoniae",
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus"
+    ],
+    "feedbackIncorrecto": {
+      "Streptococcus pneumoniae": "S. pneumoniae sigue siendo una causa frecuente, pero la EPOC aumenta especialmente la relevancia de H. influenzae.",
+      "Staphylococcus aureus": "S. aureus sería más sugestivo con antecedente de influenza reciente o patrón necrosante.",
+      "Klebsiella pneumoniae": "K. pneumoniae sería más probable con otros factores como debilitamiento marcado o trastorno por consumo de alcohol."
+    },
+    "ideaClave": "Las comorbilidades modifican la probabilidad pretest de los agentes causales."
   },
   {
     "id": 364,
     "nivel": 4,
     "tema": "Etiología bacteriana",
-    "pregunta": "Un adulto con desnutrición y trastorno por consumo de alcohol presenta neumonía grave con abundante expectoración espesa. ¿Qué agente bacteriano es más coherente con la asociación clásica del material?",
+    "pregunta": "Un adulto de 63 años con desnutrición y trastorno por consumo de alcohol presenta neumonía grave con abundante expectoración espesa y consolidación extensa. ¿Qué agente es el más coherente con el perfil de riesgo?",
     "correcta_texto": "Klebsiella pneumoniae",
     "alternativas": [
       "Klebsiella pneumoniae",
-      "Staphylococcus aureus",
+      "Haemophilus influenzae",
       "Streptococcus pneumoniae",
-      "Haemophilus influenzae"
+      "Staphylococcus aureus"
     ],
     "feedbackIncorrecto": {
-      "Streptococcus pneumoniae": "S. pneumoniae es frecuente en NAC, pero no es el agente específicamente asociado a este perfil en el material.",
-      "Haemophilus influenzae": "H. influenzae se vincula especialmente con patología respiratoria crónica.",
-      "Staphylococcus aureus": "S. aureus se asocia de forma destacada a neumonía posterior a influenza y cuadros necrosantes."
+      "Streptococcus pneumoniae": "S. pneumoniae sigue siendo posible, pero el conjunto de factores de riesgo no es el que más lo distingue.",
+      "Haemophilus influenzae": "H. influenzae se asocia especialmente a enfermedad respiratoria crónica como EPOC.",
+      "Staphylococcus aureus": "S. aureus debe priorizarse especialmente en cuadros posinfluenza o necrosantes."
     },
-    "ideaClave": "K. pneumoniae debe considerarse especialmente en pacientes debilitados y con trastorno por consumo de alcohol."
+    "ideaClave": "En etiología, el contexto del huésped puede ser tan importante como el patrón clínico."
   },
   {
     "id": 365,
     "nivel": 4,
     "tema": "Etiología bacteriana",
-    "pregunta": "Un paciente con NAC tiene neumococo como primera posibilidad, pero el equipo quiere evitar una atribución etiológica excesiva basada solo en clínica. ¿Cuál es el principio más correcto?",
-    "correcta_texto": "Los hallazgos clínicos orientan probabilidades, pero no identifican con certeza al microorganismo",
+    "pregunta": "Un paciente con NAC presenta consolidación lobar y expectoración purulenta, pero no tiene factores de riesgo específicos. ¿Cuál es la conclusión etiológica más rigurosa?",
+    "correcta_texto": "El patrón orienta a etiología bacteriana, pero no identifica por sí solo una especie",
     "alternativas": [
-      "El dolor pleurítico permite diferenciar con certeza neumococo de otros agentes",
-      "La consolidación lobar confirma S. pneumoniae",
-      "Los hallazgos clínicos orientan probabilidades, pero no identifican con certeza al microorganismo",
-      "El esputo purulento confirma etiología bacteriana específica"
+      "La consolidación lobar descarta Haemophilus influenzae",
+      "La expectoración purulenta excluye coinfección viral",
+      "El patrón orienta a etiología bacteriana, pero no identifica por sí solo una especie",
+      "El patrón permite atribuir el cuadro a Streptococcus pneumoniae con certeza"
     ],
     "feedbackIncorrecto": {
-      "La consolidación lobar confirma S. pneumoniae": "La consolidación lobar puede aparecer con distintos agentes y no confirma por sí sola neumococo.",
-      "El esputo purulento confirma etiología bacteriana específica": "El esputo purulento apoya infección respiratoria, pero no identifica una bacteria concreta.",
-      "El dolor pleurítico permite diferenciar con certeza neumococo de otros agentes": "El dolor pleurítico tampoco permite identificar con certeza un microorganismo específico."
+      "El patrón permite atribuir el cuadro a Streptococcus pneumoniae con certeza": "La clínica puede aumentar la sospecha de neumococo, pero no confirma una especie sin evidencia microbiológica.",
+      "La consolidación lobar descarta Haemophilus influenzae": "H. influenzae también puede producir neumonía bacteriana y no queda excluido por el patrón radiológico.",
+      "La expectoración purulenta excluye coinfección viral": "La purulencia no excluye coinfección o sobreinfección viral-bacteriana."
     },
-    "ideaClave": "La etiología se infiere con contexto, clínica y estudios dirigidos; no con un signo aislado."
+    "ideaClave": "En neumonía, el patrón clínico orienta probabilidades, no confirma por sí solo el agente."
   },
   {
     "id": 366,
     "nivel": 4,
     "tema": "Tipos de neumonía",
-    "pregunta": "Un paciente inicia tos y fiebre en su domicilio. Ingresa al hospital y la radiografía confirma neumonía 18 horas después. ¿Cómo debe clasificarse por lugar de adquisición?",
-    "correcta_texto": "Neumonía adquirida en la comunidad (NAC)",
+    "pregunta": "Un paciente inicia tos y fiebre en su domicilio. Ingresa al hospital y la neumonía se confirma por imagen 20 horas después. ¿Cuál es la clasificación más adecuada?",
+    "correcta_texto": "NAC",
     "alternativas": [
-      "Neumonía adquirida en la comunidad (NAC)",
       "Neumonía por aspiración",
-      "Neumonía asociada a ventilación mecánica (NAV)",
-      "Neumonía hospitalaria (HAP)"
+      "NAC",
+      "HAP",
+      "NAV"
     ],
     "feedbackIncorrecto": {
-      "Neumonía hospitalaria (HAP)": "La HAP requiere inicio al menos 48 horas después del ingreso y ausencia de incubación al momento de hospitalizarse.",
-      "Neumonía asociada a ventilación mecánica (NAV)": "La NAV exige relación temporal con intubación y ventilación mecánica.",
-      "Neumonía por aspiración": "La aspiración corresponde a un mecanismo y requiere antecedentes que la sustenten; no se deduce del tiempo de diagnóstico."
+      "HAP": "La HAP requiere aparición al menos 48 horas después del ingreso y ausencia de incubación al hospitalizarse.",
+      "NAV": "La NAV exige una relación temporal con intubación y ventilación mecánica.",
+      "Neumonía por aspiración": "La aspiración se define por mecanismo; el caso no aporta disfagia ni evento aspirativo."
     },
-    "ideaClave": "La cronología debe interpretarse junto con el momento real de inicio de los síntomas."
+    "ideaClave": "El momento de inicio de los síntomas es más importante que el momento en que se obtiene la radiografía."
   },
   {
     "id": 367,
     "nivel": 4,
     "tema": "Tipos de neumonía",
-    "pregunta": "Un adulto ingresa asintomático desde el punto de vista respiratorio por una fractura. Al tercer día desarrolla fiebre, tos y una nueva consolidación; nunca fue intubado. ¿Cuál es la clasificación más adecuada?",
-    "correcta_texto": "Neumonía hospitalaria (HAP)",
+    "pregunta": "Un paciente hospitalizado por cirugía desarrolla fiebre, tos y una nueva consolidación a las 72 horas del ingreso. No ha sido intubado y no presenta datos de aspiración. ¿Cómo debe clasificarse?",
+    "correcta_texto": "HAP",
     "alternativas": [
-      "Neumonía hospitalaria (HAP)",
       "Neumonía por aspiración",
-      "NAC",
-      "NAV"
+      "NAV",
+      "HAP",
+      "NAC"
     ],
     "feedbackIncorrecto": {
-      "NAC": "El cuadro comenzó después de 48 horas de hospitalización y no estaba presente al ingreso.",
+      "NAC": "El inicio ocurre después de 48 horas de hospitalización y no estaba presente al ingreso.",
       "NAV": "Sin ventilación mecánica no cumple criterio de NAV.",
-      "Neumonía por aspiración": "No hay un antecedente de aspiración que permita clasificarla por ese mecanismo."
+      "Neumonía por aspiración": "Sin antecedente aspirativo no debe clasificarse por ese mecanismo."
     },
-    "ideaClave": "HAP se define por contexto hospitalario y cronología, no por un patrón radiológico particular."
+    "ideaClave": "HAP se define por el contexto hospitalario y la cronología."
   },
   {
     "id": 368,
     "nivel": 4,
     "tema": "Tipos de neumonía",
-    "pregunta": "Un paciente lleva 60 horas intubado por trauma y desarrolla secreciones purulentas, fiebre, hipoxemia y una nueva opacidad pulmonar. ¿Cuál es la clasificación correcta?",
-    "correcta_texto": "Neumonía asociada a ventilación mecánica (NAV)",
+    "pregunta": "Un paciente lleva 72 horas con ventilación mecánica invasiva y desarrolla fiebre, secreciones purulentas, hipoxemia y una nueva consolidación. ¿Cuál es la clasificación más específica?",
+    "correcta_texto": "NAV",
     "alternativas": [
-      "Neumonitis química",
       "NAC",
-      "Neumonía asociada a ventilación mecánica (NAV)",
-      "HAP no asociada a ventilación"
+      "HAP",
+      "NAV",
+      "Neumonía por aspiración"
     ],
     "feedbackIncorrecto": {
-      "HAP no asociada a ventilación": "Aunque ocurre en el hospital, la asociación temporal con intubación la clasifica específicamente como NAV.",
-      "NAC": "El cuadro no corresponde a adquisición comunitaria.",
-      "Neumonitis química": "No se describe un evento de aspiración química que explique el cuadro."
+      "HAP": "HAP es una categoría hospitalaria amplia, pero la asociación temporal con ventilación mecánica permite una clasificación más específica.",
+      "NAC": "El cuadro se desarrolla durante hospitalización y ventilación invasiva.",
+      "Neumonía por aspiración": "La aspiración puede contribuir al mecanismo, pero no es la clasificación principal por contexto en este caso."
     },
-    "ideaClave": "La NAV es una categoría específica dentro de las neumonías hospitalarias."
+    "ideaClave": "La NAV es una forma específica de neumonía hospitalaria asociada a intubación prolongada."
   },
   {
     "id": 369,
     "nivel": 4,
     "tema": "Tipos de neumonía",
-    "pregunta": "Paciente con ACV, disfagia y episodios repetidos de tos durante la alimentación desarrolla fiebre y una consolidación basal. ¿Qué clasificación por mecanismo es más apropiada?",
+    "pregunta": "Paciente con ACV, disfagia y tos inefectiva presenta fiebre, expectoración y consolidación basal después de episodios repetidos durante la alimentación. ¿Qué mecanismo debe considerarse prioritariamente?",
     "correcta_texto": "Neumonía por aspiración",
     "alternativas": [
-      "NAV",
-      "Neumonía por aspiración",
       "Neumonitis química",
-      "NAC sin relación con aspiración"
+      "NAC bacteriana sin relación con aspiración",
+      "HAP",
+      "Neumonía por aspiración"
     ],
     "feedbackIncorrecto": {
-      "Neumonitis química": "La neumonitis química suele relacionarse con aspiración de contenido irritante y puede presentarse sin infección; aquí predomina un cuadro infeccioso tras microaspiraciones repetidas.",
-      "NAV": "La NAV requiere ventilación mecánica.",
-      "NAC sin relación con aspiración": "Ignorar la aspiración omite el principal mecanismo de adquisición descrito."
+      "NAC bacteriana sin relación con aspiración": "La NAC puede coexistir, pero el antecedente de disfagia y aspiraciones repetidas aporta un mecanismo causal más específico.",
+      "HAP": "El caso no se define por hospitalización prolongada.",
+      "Neumonitis química": "La presencia de un cuadro infeccioso progresivo tras aspiraciones repetidas orienta más a neumonía que a lesión química estéril."
     },
-    "ideaClave": "La aspiración infecciosa debe diferenciarse de la lesión química por aspiración."
+    "ideaClave": "La historia de deglución y protección de vía aérea puede definir el mecanismo de adquisición."
   },
   {
     "id": 370,
     "nivel": 4,
     "tema": "Tipos de neumonía",
-    "pregunta": "Tres pacientes presentan: A) síntomas iniciados en domicilio; B) neumonía al cuarto día de hospitalización sin intubación; C) neumonía 72 horas después de intubación. ¿Qué secuencia de clasificación es correcta?",
+    "pregunta": "Se analizan tres pacientes: A) síntomas iniciados en comunidad; B) síntomas iniciados al tercer día de hospitalización, sin intubación; C) síntomas iniciados tras 60 horas de intubación. ¿Cuál es la secuencia correcta?",
     "correcta_texto": "NAC — HAP — NAV",
     "alternativas": [
       "HAP — NAC — NAV",
-      "NAV — HAP — NAC",
-      "NAC — HAP — NAV",
-      "NAC — NAV — HAP"
+      "HAP — NAV — NAC",
+      "NAC — NAV — HAP",
+      "NAC — HAP — NAV"
     ],
     "feedbackIncorrecto": {
-      "NAC — NAV — HAP": "El paciente B no está ventilado y por tanto no corresponde a NAV; el C sí cumple esa condición.",
-      "HAP — NAC — NAV": "El paciente A inicia el cuadro en comunidad, mientras B lo desarrolla durante hospitalización.",
-      "NAV — HAP — NAC": "El paciente A no cumple definición de NAV y el C no corresponde a NAC."
+      "NAC — NAV — HAP": "El paciente B no está ventilado, por lo que no corresponde a NAV.",
+      "HAP — NAC — NAV": "El paciente A inicia fuera del hospital y por eso no corresponde a HAP.",
+      "HAP — NAV — NAC": "El paciente C cumple el criterio temporal de NAV, no de NAC."
     },
-    "ideaClave": "El lugar de adquisición y la relación con ventilación mecánica permiten diferenciar las categorías."
+    "ideaClave": "La clasificación requiere integrar lugar de adquisición y relación con ventilación mecánica."
   },
   {
     "id": 371,
     "nivel": 4,
     "tema": "Neumonía en adultos",
-    "pregunta": "Un adulto con fiebre y tos presenta disnea, taquipnea, crepitaciones, matidez y mayor transmisión de la voz. ¿Qué mecanismo explica mejor el conjunto de hallazgos?",
-    "correcta_texto": "Ocupación alveolar y consolidación con deterioro del intercambio gaseoso",
+    "pregunta": "Un adulto con neumonía presenta crepitaciones, matidez a la percusión y aumento de la transmisión de la voz. ¿Qué proceso fisiopatológico explica mejor el conjunto?",
+    "correcta_texto": "Consolidación alveolar",
     "alternativas": [
-      "Ocupación alveolar y consolidación con deterioro del intercambio gaseoso",
-      "Broncoconstricción sin compromiso parenquimatoso",
-      "Hiperventilación primaria con pulmón estructuralmente normal",
-      "Obstrucción aislada de vía aérea superior"
+      "Hiperventilación compensatoria",
+      "Derrame pleural aislado",
+      "Broncoconstricción difusa",
+      "Consolidación alveolar"
     ],
     "feedbackIncorrecto": {
-      "Obstrucción aislada de vía aérea superior": "La obstrucción de vía aérea superior no explica signos de consolidación pulmonar.",
-      "Broncoconstricción sin compromiso parenquimatoso": "La broncoconstricción puede producir sibilancias, pero no explica bien matidez y mayor transmisión de la voz.",
-      "Hiperventilación primaria con pulmón estructuralmente normal": "La hiperventilación primaria no produce una consolidación parenquimatosa."
+      "Broncoconstricción difusa": "La broncoconstricción puede producir sibilancias, pero no explica bien matidez y aumento de transmisión vocal.",
+      "Derrame pleural aislado": "Un derrame puede producir matidez, pero suele disminuir la transmisión vocal y no explica por sí solo crepitaciones alveolares.",
+      "Hiperventilación compensatoria": "La hiperventilación no genera estos hallazgos físicos focales."
     },
-    "ideaClave": "Los signos físicos deben interpretarse a partir del compromiso alveolar y parenquimatoso."
+    "ideaClave": "Los signos físicos deben relacionarse con la sustitución de aire alveolar por exudado."
   },
   {
     "id": 372,
     "nivel": 4,
     "tema": "Neumonía en adultos",
-    "pregunta": "Una persona mayor con neumonía presenta poca fiebre, confusión nueva y deterioro funcional marcado. ¿Cuál es la interpretación más adecuada?",
-    "correcta_texto": "En adultos mayores la neumonía puede manifestarse con presentación menos típica y deterioro funcional",
+    "pregunta": "Un adulto mayor con neumonía presenta escasa fiebre, confusión reciente y disminución marcada de su autonomía. ¿Cuál es la interpretación más adecuada?",
+    "correcta_texto": "Puede corresponder a una presentación menos típica de neumonía en el adulto mayor",
     "alternativas": [
-      "El deterioro funcional no se relaciona con neumonía",
-      "En adultos mayores la neumonía puede manifestarse con presentación menos típica y deterioro funcional",
-      "La confusión indica obligatoriamente una causa neurológica no infecciosa",
-      "La ausencia de fiebre alta descarta neumonía"
+      "La confusión obliga a descartar primero cualquier causa respiratoria",
+      "El deterioro funcional no tiene valor clínico en neumonía",
+      "La ausencia de fiebre alta hace improbable una neumonía",
+      "Puede corresponder a una presentación menos típica de neumonía en el adulto mayor"
     ],
     "feedbackIncorrecto": {
-      "La ausencia de fiebre alta descarta neumonía": "La fiebre puede ser escasa en personas mayores y su ausencia no descarta la enfermedad.",
-      "La confusión indica obligatoriamente una causa neurológica no infecciosa": "La confusión puede reflejar repercusión sistémica o hipoxemia y no obliga a una causa neurológica primaria.",
-      "El deterioro funcional no se relaciona con neumonía": "El deterioro funcional puede ser una manifestación importante en adultos mayores."
+      "La ausencia de fiebre alta hace improbable una neumonía": "En adultos mayores puede existir fiebre escasa y la ausencia de fiebre alta no descarta infección.",
+      "La confusión obliga a descartar primero cualquier causa respiratoria": "La confusión puede ser parte del compromiso sistémico o de la hipoxemia y no excluye origen respiratorio.",
+      "El deterioro funcional no tiene valor clínico en neumonía": "El deterioro funcional puede ser una manifestación relevante en personas mayores."
     },
-    "ideaClave": "En personas mayores, la presentación puede ser menos típica que en adultos jóvenes."
+    "ideaClave": "En adultos mayores, la presentación clínica puede ser menos típica que en adultos jóvenes."
   },
   {
     "id": 373,
     "nivel": 4,
     "tema": "Neumonía en adultos",
-    "pregunta": "Un adulto con NAC presenta SpO₂ 84%, presión arterial 86/54 mmHg y confusión. ¿Cuál es la interpretación más adecuada?",
-    "correcta_texto": "Existe compromiso de oxigenación y perfusión con criterios de alarma",
+    "pregunta": "Un paciente con NAC presenta SpO₂ 85%, presión arterial 88/56 mmHg y desorientación. ¿Qué interpretación integra mejor estos hallazgos?",
+    "correcta_texto": "Existe compromiso respiratorio y hemodinámico con criterios de gravedad",
     "alternativas": [
-      "La hipotensión es irrelevante mientras exista fiebre",
-      "La confusión solo tiene valor si el paciente es mayor de 65 años",
-      "El cuadro es leve si la radiografía muestra una sola consolidación",
-      "Existe compromiso de oxigenación y perfusión con criterios de alarma"
+      "Existe compromiso respiratorio y hemodinámico con criterios de gravedad",
+      "La gravedad depende principalmente del tamaño de la consolidación",
+      "La desorientación solo tiene valor si el paciente tiene ≥65 años",
+      "La hipotensión puede ignorarse si la fiebre es alta"
     ],
     "feedbackIncorrecto": {
-      "El cuadro es leve si la radiografía muestra una sola consolidación": "La gravedad clínica no se define únicamente por la extensión radiográfica.",
-      "La hipotensión es irrelevante mientras exista fiebre": "La hipotensión es un signo de compromiso hemodinámico.",
-      "La confusión solo tiene valor si el paciente es mayor de 65 años": "La confusión es relevante como signo de gravedad independientemente de que el paciente tenga o no 65 años."
+      "La gravedad depende principalmente del tamaño de la consolidación": "La extensión radiológica no sustituye la valoración fisiológica.",
+      "La hipotensión puede ignorarse si la fiebre es alta": "La hipotensión es un signo de compromiso circulatorio.",
+      "La desorientación solo tiene valor si el paciente tiene ≥65 años": "La confusión es relevante como signo de gravedad a cualquier edad."
     },
-    "ideaClave": "La valoración de gravedad debe integrar oxigenación, hemodinamia y estado mental."
+    "ideaClave": "La gravedad de la neumonía se reconoce por su repercusión sistémica, no solo por la imagen."
   },
   {
     "id": 374,
     "nivel": 4,
     "tema": "Neumonía en adultos",
-    "pregunta": "Un adulto con neumonía presenta dolor torácico que empeora al inspirar y disminuye voluntariamente la profundidad de la respiración. ¿Qué relación fisiopatológica es más correcta?",
-    "correcta_texto": "Irritación pleural que limita expansión torácica y puede reducir eficacia de la tos",
+    "pregunta": "Un adulto con neumonía refiere dolor punzante que aumenta con inspiración profunda y tos. ¿Qué mecanismo explica mejor este síntoma?",
+    "correcta_texto": "Irritación pleural asociada al proceso inflamatorio",
     "alternativas": [
-      "Broncodilatación refleja que mejora el aclaramiento",
-      "Aumento de surfactante que explica el dolor",
-      "Aumento de distensibilidad que facilita la inspiración",
-      "Irritación pleural que limita expansión torácica y puede reducir eficacia de la tos"
+      "Aumento de la distensibilidad pulmonar",
+      "Disminución de la tensión superficial alveolar",
+      "Irritación pleural asociada al proceso inflamatorio",
+      "Broncoconstricción generalizada"
     ],
     "feedbackIncorrecto": {
-      "Aumento de distensibilidad que facilita la inspiración": "El dolor pleurítico no aumenta la distensibilidad.",
-      "Broncodilatación refleja que mejora el aclaramiento": "La broncodilatación no explica el dolor pleurítico ni su efecto mecánico.",
-      "Aumento de surfactante que explica el dolor": "El surfactante no es la causa del dolor pleural."
+      "Aumento de la distensibilidad pulmonar": "Una mayor distensibilidad no produce dolor pleurítico.",
+      "Broncoconstricción generalizada": "La broncoconstricción se asocia más a sibilancias y limitación de flujo.",
+      "Disminución de la tensión superficial alveolar": "El surfactante modifica tensión superficial, pero no explica dolor pleural."
     },
-    "ideaClave": "El dolor pleurítico puede empeorar la ventilación regional y la limpieza de secreciones."
+    "ideaClave": "El dolor pleurítico refleja compromiso de la pleura adyacente al foco inflamatorio."
   },
   {
     "id": 375,
     "nivel": 4,
     "tema": "Neumonía en adultos",
-    "pregunta": "Adulto con fiebre, tos y disnea presenta una nueva opacidad pulmonar. ¿Qué afirmación interpreta correctamente el papel de la imagen?",
-    "correcta_texto": "La imagen apoya el diagnóstico, pero debe integrarse con clínica y no identifica por sí sola la etiología",
+    "pregunta": "Un paciente con fiebre, tos y disnea presenta una nueva opacidad pulmonar. ¿Qué conclusión es metodológicamente correcta?",
+    "correcta_texto": "La imagen apoya el diagnóstico, pero no determina por sí sola el microorganismo causal",
     "alternativas": [
-      "La imagen apoya el diagnóstico, pero debe integrarse con clínica y no identifica por sí sola la etiología",
-      "Una imagen compatible hace innecesaria la evaluación de gravedad",
-      "El patrón radiográfico permite identificar con certeza el microorganismo",
-      "La opacidad confirma una etiología bacteriana"
+      "El patrón radiográfico identifica al agente con suficiente certeza",
+      "Una opacidad compatible elimina la necesidad de valorar gravedad",
+      "La consolidación confirma una etiología bacteriana específica",
+      "La imagen apoya el diagnóstico, pero no determina por sí sola el microorganismo causal"
     ],
     "feedbackIncorrecto": {
-      "La opacidad confirma una etiología bacteriana": "Una opacidad puede aparecer en diferentes etiologías y no confirma que sea bacteriana.",
-      "El patrón radiográfico permite identificar con certeza el microorganismo": "Los patrones se superponen y no identifican con certeza al agente.",
-      "Una imagen compatible hace innecesaria la evaluación de gravedad": "La evaluación de gravedad sigue siendo necesaria aunque la imagen sea compatible."
+      "La consolidación confirma una etiología bacteriana específica": "La consolidación puede aparecer con varios agentes y no identifica una bacteria específica.",
+      "El patrón radiográfico identifica al agente con suficiente certeza": "Los patrones radiográficos se superponen entre distintas etiologías.",
+      "Una opacidad compatible elimina la necesidad de valorar gravedad": "La gravedad debe evaluarse independientemente de la imagen."
     },
-    "ideaClave": "Diagnóstico y etiología son preguntas distintas: la imagen ayuda a la primera, no resuelve por sí sola la segunda."
+    "ideaClave": "La imagen ayuda a confirmar compromiso pulmonar, no reemplaza la evaluación etiológica ni de gravedad."
   },
   {
     "id": 376,
     "nivel": 4,
     "tema": "Etiología general",
-    "pregunta": "Adulto con pródromo de mialgias, coriza y odinofagia, seguido de fiebre moderada y tos seca. ¿Qué categoría etiológica es más compatible con este patrón?",
-    "correcta_texto": "Neumonía viral",
+    "pregunta": "Un adulto presenta pródromo de coriza, mialgias y odinofagia, seguido de fiebre moderada y tos predominantemente seca. ¿Qué etiología general es la más coherente?",
+    "correcta_texto": "Viral",
     "alternativas": [
-      "Neumonía por aspiración",
-      "Neumonía viral",
-      "HAP bacteriana por definición",
-      "Neumonía bacteriana típica"
+      "Viral",
+      "Mixta",
+      "Aspirativa",
+      "Bacteriana típica"
     ],
     "feedbackIncorrecto": {
-      "Neumonía bacteriana típica": "La neumonía bacteriana típica suele asociarse más a inicio abrupto, fiebre alta y tos productiva, aunque hay superposición.",
-      "Neumonía por aspiración": "No se aportan antecedentes de disfagia o aspiración.",
-      "HAP bacteriana por definición": "El patrón clínico no establece un origen hospitalario."
+      "Bacteriana típica": "La etiología bacteriana típica suele asociarse más a inicio brusco, fiebre alta y tos productiva, aunque puede existir superposición.",
+      "Mixta": "La etiología mixta es posible, pero no hay un deterioro bifásico ni datos que obliguen a sospechar coinfección.",
+      "Aspirativa": "No hay antecedentes de disfagia o aspiración que apoyen este mecanismo."
     },
-    "ideaClave": "El patrón clínico orienta una probabilidad etiológica, pero no confirma el agente."
+    "ideaClave": "El patrón clínico orienta, pero no confirma por sí solo una etiología viral."
   },
   {
     "id": 377,
     "nivel": 4,
     "tema": "Etiología general",
-    "pregunta": "Adulto con fiebre alta de inicio brusco, tos productiva con esputo purulento y dolor pleurítico presenta consolidación lobar. ¿Qué categoría etiológica orienta más?",
-    "correcta_texto": "Neumonía bacteriana",
+    "pregunta": "Un adulto presenta fiebre alta de inicio brusco, tos productiva con esputo purulento, dolor pleurítico y consolidación focal. ¿Qué etiología general debe considerarse primero?",
+    "correcta_texto": "Bacteriana",
     "alternativas": [
-      "Neumonía mixta obligatoria",
-      "Neumonía viral",
-      "Neumonitis química",
-      "Neumonía bacteriana"
+      "Aspirativa",
+      "Viral",
+      "Bacteriana",
+      "Mixta"
     ],
     "feedbackIncorrecto": {
-      "Neumonía viral": "La etiología viral puede producir neumonía, pero este patrón es más típico de infección bacteriana.",
-      "Neumonía mixta obligatoria": "No existen datos suficientes para afirmar coinfección obligatoria.",
-      "Neumonitis química": "La neumonitis química requiere un antecedente de aspiración irritante y puede no ser infecciosa."
+      "Viral": "La neumonía viral puede producir compromiso pulmonar, pero el patrón descrito es más típico de infección bacteriana.",
+      "Mixta": "La coinfección es posible, pero no existe antecedente suficiente para considerarla la primera opción.",
+      "Aspirativa": "La aspiración requiere factores predisponentes o un evento compatible."
     },
-    "ideaClave": "Los hallazgos clínicos pueden orientar hacia una etiología bacteriana sin identificar una especie concreta."
+    "ideaClave": "Los patrones clínicos orientan a una categoría etiológica, no necesariamente a una especie concreta."
   },
   {
     "id": 378,
     "nivel": 4,
     "tema": "Etiología mixta",
-    "pregunta": "Un adulto comienza con un cuadro compatible con influenza y, después de una mejoría parcial, reaparecen fiebre, expectoración y deterioro respiratorio. ¿Qué interpretación etiológica es más adecuada?",
-    "correcta_texto": "Coinfección o sobreinfección bacteriana sobre una infección viral",
+    "pregunta": "Un paciente cursa influenza con mejoría parcial y luego presenta nueva fiebre, aumento de expectoración y deterioro respiratorio. ¿Cuál es la interpretación etiológica más consistente?",
+    "correcta_texto": "Coinfección o sobreinfección bacteriana sobre infección viral",
     "alternativas": [
-      "Coinfección o sobreinfección bacteriana sobre una infección viral",
-      "Persistencia viral sin posibilidad de coinfección",
+      "NAC bacteriana primaria no relacionada con influenza",
       "Neumonitis química",
-      "Neumonía hospitalaria solo por el deterioro"
+      "Coinfección o sobreinfección bacteriana sobre infección viral",
+      "Persistencia viral sin coinfección"
     ],
     "feedbackIncorrecto": {
-      "Persistencia viral sin posibilidad de coinfección": "Una prueba o síndrome viral no excluye coinfección bacteriana.",
-      "Neumonitis química": "No existe antecedente de aspiración química.",
-      "Neumonía hospitalaria solo por el deterioro": "El lugar de adquisición se define por contexto y cronología, no por el deterioro en sí mismo."
+      "Persistencia viral sin coinfección": "El nuevo deterioro después de una mejoría obliga a considerar infección bacteriana agregada.",
+      "NAC bacteriana primaria no relacionada con influenza": "Una bacteria puede ser la causa del deterioro, pero el antecedente viral forma parte del mecanismo temporal del cuadro.",
+      "Neumonitis química": "No existe antecedente de aspiración química."
     },
-    "ideaClave": "El empeoramiento bifásico obliga a considerar una infección mixta."
+    "ideaClave": "El patrón bifásico aumenta la sospecha de infección mixta."
   },
   {
     "id": 379,
     "nivel": 4,
-    "tema": "Etiología bacteriana",
-    "pregunta": "Un adulto hospitalizado desarrolla neumonía después de varios días de ingreso. ¿Qué perfil etiológico orientador es más coherente con el material?",
-    "correcta_texto": "S. aureus y bacilos gramnegativos, interpretados según microbiología local y exposiciones previas",
+    "tema": "Etiología hospitalaria",
+    "pregunta": "Un adulto hospitalizado desarrolla neumonía luego de varios días de ingreso y ha recibido antibióticos recientemente. ¿Qué enfoque etiológico es más adecuado?",
+    "correcta_texto": "Considerar S. aureus y bacilos gramnegativos según epidemiología local y exposición previa",
     "alternativas": [
-      "Solo Streptococcus pneumoniae",
-      "Mycoplasma pneumoniae como agente obligatorio",
-      "S. aureus y bacilos gramnegativos, interpretados según microbiología local y exposiciones previas",
-      "Solo virus respiratorios"
+      "Mantener solo neumococo como primera posibilidad",
+      "Priorizar Mycoplasma pneumoniae",
+      "Asumir etiología viral hasta demostrar lo contrario",
+      "Considerar S. aureus y bacilos gramnegativos según epidemiología local y exposición previa"
     ],
     "feedbackIncorrecto": {
-      "Solo Streptococcus pneumoniae": "El neumococo puede aparecer, pero la neumonía hospitalaria obliga a ampliar la sospecha hacia patógenos nosocomiales.",
-      "Solo virus respiratorios": "Los virus pueden causar infección respiratoria, pero no constituyen el único perfil etiológico hospitalario.",
-      "Mycoplasma pneumoniae como agente obligatorio": "Mycoplasma no es un agente obligatorio de HAP."
+      "Mantener solo neumococo como primera posibilidad": "El contexto hospitalario y antibióticos previos modifican el riesgo de patógenos resistentes.",
+      "Priorizar Mycoplasma pneumoniae": "Mycoplasma es más característico de NAC atípica que de HAP.",
+      "Asumir etiología viral hasta demostrar lo contrario": "Los virus pueden participar, pero el contexto hospitalario obliga a considerar patógenos bacterianos nosocomiales."
     },
-    "ideaClave": "En HAP/NAV el contexto hospitalario y la resistencia local modifican la sospecha etiológica."
+    "ideaClave": "En HAP/NAV, el contexto epidemiológico y la resistencia local pesan más que un patrón clínico aislado."
   },
   {
     "id": 380,
     "nivel": 4,
     "tema": "Etiología en adultos",
-    "pregunta": "En un adulto con NAC sin datos microbiológicos todavía disponibles, ¿qué enfoque es más correcto para estimar etiología?",
-    "correcta_texto": "Integrar edad, comorbilidades, contexto de adquisición, patrón clínico y evolución",
+    "pregunta": "En un adulto con NAC sin resultados microbiológicos, ¿qué estrategia produce la mejor estimación etiológica inicial?",
+    "correcta_texto": "Integrar contexto de adquisición, comorbilidades, patrón clínico y evolución",
     "alternativas": [
-      "Asumir que toda NAC del adulto es neumocócica",
-      "Asignar el agente solo por el color del esputo",
-      "Elegir el microorganismo únicamente por la radiografía",
-      "Integrar edad, comorbilidades, contexto de adquisición, patrón clínico y evolución"
+      "Integrar contexto de adquisición, comorbilidades, patrón clínico y evolución",
+      "Basarse en el color del esputo",
+      "Asumir neumococo por ser la causa bacteriana más frecuente",
+      "Basarse solo en el patrón radiográfico"
     ],
     "feedbackIncorrecto": {
-      "Asignar el agente solo por el color del esputo": "El aspecto del esputo puede orientar, pero no identifica con certeza una especie.",
-      "Elegir el microorganismo únicamente por la radiografía": "La imagen tampoco determina por sí sola el microorganismo.",
-      "Asumir que toda NAC del adulto es neumocócica": "El neumococo es frecuente, pero la NAC del adulto tiene etiologías diversas."
+      "Basarse en el color del esputo": "El aspecto del esputo puede orientar, pero no identifica con certeza al agente.",
+      "Basarse solo en el patrón radiográfico": "La radiografía tampoco distingue de forma definitiva entre microorganismos.",
+      "Asumir neumococo por ser la causa bacteriana más frecuente": "La frecuencia del neumococo no elimina la necesidad de integrar otros datos clínicos."
     },
-    "ideaClave": "La probabilidad etiológica se construye integrando múltiples datos clínicos y epidemiológicos."
+    "ideaClave": "El razonamiento etiológico debe ser probabilístico e integrar múltiples variables."
   }
 ]
